@@ -28,7 +28,7 @@ function formatCraftingbenchoption(option) {
     // omit
     // map
     cost_base_item_types,
-    item_classes,
+    crafting_item_class_categories,
     mod,
     mods_key,
     // keep
@@ -54,14 +54,17 @@ function formatCraftingbenchoption(option) {
       },
     );
 
-  const formatted_item_classes = item_classes
+  const formatted_item_classes = crafting_item_class_categories
     .sort((a, b) => {
       return (
-        a.CraftingBenchOptionHabtmItemClass.priority -
-        b.CraftingBenchOptionHabtmItemClass.priority
+        a.CraftingBenchOptionHabtmCraftingItemClassCategory.priority -
+        b.CraftingBenchOptionHabtmCraftingItemClassCategory.priority
       );
     })
-    .map(({ id }) => id);
+    .map(({ item_classes }) => item_classes.map(({ id }) => id))
+    .reduce((flat_ids, ids) => {
+      return flat_ids.concat(ids);
+    }, []);
 
   return {
     ...props,
