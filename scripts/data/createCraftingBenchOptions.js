@@ -26,9 +26,11 @@ function formatCraftingbenchoptions(options) {
 function formatCraftingbenchoption(option) {
   const {
     // omit
+    hideout_np_cs_key,
     // map
     cost_base_item_types,
     crafting_item_class_categories,
+    hideout_npc: { npc_master_key },
     mod,
     mods_key,
     // keep
@@ -72,5 +74,6 @@ function formatCraftingbenchoption(option) {
     mod: mod == null ? undefined : createMods.format(mod),
     item_classes: formatted_item_classes,
     mods_key: nullToUndefined(mods_key),
+    npc_master_key,
   };
 }

@@ -157,6 +157,7 @@ export interface CraftingBenchOptionsProps {
   }>;
   mod?: ModProps;
   item_classes: string[];
+  npc_master_key: number;
 }
 
 export interface WorldAreaProps {

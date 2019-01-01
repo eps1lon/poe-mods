@@ -45,7 +45,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 1,
@@ -93,7 +94,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 2,
@@ -141,7 +143,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 3,
@@ -189,7 +192,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 4,
@@ -237,7 +241,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 5,
@@ -285,7 +290,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 6,
@@ -333,7 +339,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 7,
@@ -381,7 +388,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 8,
@@ -429,7 +437,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 9,
@@ -477,7 +486,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 10,
@@ -527,7 +537,8 @@
       "Shield",
       "Ring",
       "Amulet"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 11,
@@ -575,7 +586,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 12,
@@ -623,7 +635,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 13,
@@ -673,7 +686,8 @@
       "Shield",
       "Ring",
       "Amulet"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 14,
@@ -721,7 +735,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 15,
@@ -769,7 +784,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 16,
@@ -819,7 +835,8 @@
       "Shield",
       "Ring",
       "Amulet"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 17,
@@ -867,7 +884,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 18,
@@ -915,7 +933,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 19,
@@ -963,7 +982,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 20,
@@ -1011,7 +1031,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 21,
@@ -1059,7 +1080,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 22,
@@ -1107,7 +1129,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 23,
@@ -1155,7 +1178,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 24,
@@ -1203,7 +1227,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 25,
@@ -1251,7 +1276,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 26,
@@ -1299,7 +1325,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 27,
@@ -1347,7 +1374,8 @@
       "Boots",
       "Helmet",
       "Shield"
-    ]
+    ],
+    "npc_master_key": 4
   },
   {
     "primary": 36,
@@ -1376,7 +1404,8 @@
         }
       }
     ],
-    "item_classes": ["Map"]
+    "item_classes": ["Map"],
+    "npc_master_key": 6
   },
   {
     "primary": 37,
@@ -1405,7 +1434,8 @@
         }
       }
     ],
-    "item_classes": ["Map"]
+    "item_classes": ["Map"],
+    "npc_master_key": 6
   },
   {
     "primary": 38,
@@ -1434,7 +1464,8 @@
         }
       }
     ],
-    "item_classes": ["Map"]
+    "item_classes": ["Map"],
+    "npc_master_key": 6
   },
   {
     "primary": 39,
@@ -1463,7 +1494,8 @@
         }
       }
     ],
-    "item_classes": ["Map"]
+    "item_classes": ["Map"],
+    "npc_master_key": 6
   },
   {
     "primary": 40,
@@ -1492,7 +1524,8 @@
         }
       }
     ],
-    "item_classes": ["Map"]
+    "item_classes": ["Map"],
+    "npc_master_key": 6
   },
   {
     "primary": 41,
@@ -1559,7 +1592,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6829
+    "mods_key": 6829,
+    "npc_master_key": 6
   },
   {
     "primary": 42,
@@ -1623,7 +1657,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 7037
+    "mods_key": 7037,
+    "npc_master_key": 6
   },
   {
     "primary": 43,
@@ -1684,7 +1719,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6819
+    "mods_key": 6819,
+    "npc_master_key": 6
   },
   {
     "primary": 44,
@@ -1748,7 +1784,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 9444
+    "mods_key": 9444,
+    "npc_master_key": 6
   },
   {
     "primary": 45,
@@ -1812,7 +1849,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 10137
+    "mods_key": 10137,
+    "npc_master_key": 6
   },
   {
     "primary": 46,
@@ -1876,7 +1914,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 10730
+    "mods_key": 10730,
+    "npc_master_key": 6
   },
   {
     "primary": 47,
@@ -1940,7 +1979,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 11433
+    "mods_key": 11433,
+    "npc_master_key": 6
   },
   {
     "primary": 48,
@@ -2010,7 +2050,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6831
+    "mods_key": 6831,
+    "npc_master_key": 6
   },
   {
     "primary": 49,
@@ -2074,7 +2115,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6874
+    "mods_key": 6874,
+    "npc_master_key": 6
   },
   {
     "primary": 50,
@@ -2135,7 +2177,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6815
+    "mods_key": 6815,
+    "npc_master_key": 6
   },
   {
     "primary": 51,
@@ -2199,7 +2242,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6842
+    "mods_key": 6842,
+    "npc_master_key": 6
   },
   {
     "primary": 52,
@@ -2263,7 +2307,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 9940
+    "mods_key": 9940,
+    "npc_master_key": 6
   },
   {
     "primary": 53,
@@ -2327,7 +2372,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6824
+    "mods_key": 6824,
+    "npc_master_key": 6
   },
   {
     "primary": 54,
@@ -2391,7 +2437,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 7462
+    "mods_key": 7462,
+    "npc_master_key": 6
   },
   {
     "primary": 55,
@@ -2455,7 +2502,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6813
+    "mods_key": 6813,
+    "npc_master_key": 6
   },
   {
     "primary": 56,
@@ -2519,7 +2567,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 6841
+    "mods_key": 6841,
+    "npc_master_key": 6
   },
   {
     "primary": 57,
@@ -2583,7 +2632,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 7215
+    "mods_key": 7215,
+    "npc_master_key": 6
   },
   {
     "primary": 58,
@@ -2647,7 +2697,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 9250
+    "mods_key": 9250,
+    "npc_master_key": 6
   },
   {
     "primary": 59,
@@ -2711,7 +2762,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4158
+    "mods_key": 4158,
+    "npc_master_key": 6
   },
   {
     "primary": 60,
@@ -2775,7 +2827,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4159
+    "mods_key": 4159,
+    "npc_master_key": 6
   },
   {
     "primary": 61,
@@ -2839,7 +2892,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4160
+    "mods_key": 4160,
+    "npc_master_key": 6
   },
   {
     "primary": 62,
@@ -2903,7 +2957,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4161
+    "mods_key": 4161,
+    "npc_master_key": 6
   },
   {
     "primary": 63,
@@ -2967,7 +3022,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4177
+    "mods_key": 4177,
+    "npc_master_key": 6
   },
   {
     "primary": 64,
@@ -3031,7 +3087,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4178
+    "mods_key": 4178,
+    "npc_master_key": 6
   },
   {
     "primary": 65,
@@ -3095,7 +3152,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4179
+    "mods_key": 4179,
+    "npc_master_key": 6
   },
   {
     "primary": 66,
@@ -3159,7 +3217,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4180
+    "mods_key": 4180,
+    "npc_master_key": 6
   },
   {
     "primary": 67,
@@ -3223,7 +3282,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4060
+    "mods_key": 4060,
+    "npc_master_key": 6
   },
   {
     "primary": 68,
@@ -3287,7 +3347,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4061
+    "mods_key": 4061,
+    "npc_master_key": 6
   },
   {
     "primary": 69,
@@ -3351,7 +3412,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4059
+    "mods_key": 4059,
+    "npc_master_key": 6
   },
   {
     "primary": 70,
@@ -3428,7 +3490,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4030
+    "mods_key": 4030,
+    "npc_master_key": 6
   },
   {
     "primary": 71,
@@ -3508,7 +3571,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4037
+    "mods_key": 4037,
+    "npc_master_key": 6
   },
   {
     "primary": 72,
@@ -3585,7 +3649,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4083
+    "mods_key": 4083,
+    "npc_master_key": 6
   },
   {
     "primary": 73,
@@ -3666,7 +3731,8 @@
       "tags": []
     },
     "item_classes": ["Map"],
-    "mods_key": 4088
+    "mods_key": 4088,
+    "npc_master_key": 6
   },
   {
     "primary": 74,
@@ -3734,7 +3800,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13595
+    "mods_key": 13595,
+    "npc_master_key": 3
   },
   {
     "primary": 75,
@@ -3815,7 +3882,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13561
+    "mods_key": 13561,
+    "npc_master_key": 3
   },
   {
     "primary": 76,
@@ -3896,7 +3964,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13564
+    "mods_key": 13564,
+    "npc_master_key": 3
   },
   {
     "primary": 77,
@@ -3977,7 +4046,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13567
+    "mods_key": 13567,
+    "npc_master_key": 3
   },
   {
     "primary": 78,
@@ -4058,7 +4128,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13581
+    "mods_key": 13581,
+    "npc_master_key": 3
   },
   {
     "primary": 79,
@@ -4138,7 +4209,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13584
+    "mods_key": 13584,
+    "npc_master_key": 3
   },
   {
     "primary": 80,
@@ -4218,7 +4290,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13587
+    "mods_key": 13587,
+    "npc_master_key": 3
   },
   {
     "primary": 81,
@@ -4270,7 +4343,8 @@
       "Amulet",
       "Belt",
       "Quiver"
-    ]
+    ],
+    "npc_master_key": 3
   },
   {
     "primary": 82,
@@ -4351,7 +4425,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13562
+    "mods_key": 13562,
+    "npc_master_key": 3
   },
   {
     "primary": 83,
@@ -4430,7 +4505,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13563
+    "mods_key": 13563,
+    "npc_master_key": 3
   },
   {
     "primary": 84,
@@ -4511,7 +4587,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13565
+    "mods_key": 13565,
+    "npc_master_key": 3
   },
   {
     "primary": 85,
@@ -4590,7 +4667,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13566
+    "mods_key": 13566,
+    "npc_master_key": 3
   },
   {
     "primary": 86,
@@ -4671,7 +4749,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13568
+    "mods_key": 13568,
+    "npc_master_key": 3
   },
   {
     "primary": 87,
@@ -4750,7 +4829,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13569
+    "mods_key": 13569,
+    "npc_master_key": 3
   },
   {
     "primary": 88,
@@ -4831,7 +4911,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13570
+    "mods_key": 13570,
+    "npc_master_key": 3
   },
   {
     "primary": 89,
@@ -4912,7 +4993,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13571
+    "mods_key": 13571,
+    "npc_master_key": 3
   },
   {
     "primary": 90,
@@ -4991,7 +5073,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13572
+    "mods_key": 13572,
+    "npc_master_key": 3
   },
   {
     "primary": 91,
@@ -5072,7 +5155,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13573
+    "mods_key": 13573,
+    "npc_master_key": 3
   },
   {
     "primary": 92,
@@ -5153,7 +5237,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13574
+    "mods_key": 13574,
+    "npc_master_key": 3
   },
   {
     "primary": 93,
@@ -5232,7 +5317,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13575
+    "mods_key": 13575,
+    "npc_master_key": 3
   },
   {
     "primary": 94,
@@ -5313,7 +5399,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13576
+    "mods_key": 13576,
+    "npc_master_key": 3
   },
   {
     "primary": 95,
@@ -5394,7 +5481,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13577
+    "mods_key": 13577,
+    "npc_master_key": 3
   },
   {
     "primary": 96,
@@ -5473,7 +5561,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13578
+    "mods_key": 13578,
+    "npc_master_key": 3
   },
   {
     "primary": 97,
@@ -5531,7 +5620,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13579
+    "mods_key": 13579,
+    "npc_master_key": 3
   },
   {
     "primary": 98,
@@ -5589,7 +5679,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13580
+    "mods_key": 13580,
+    "npc_master_key": 3
   },
   {
     "primary": 99,
@@ -5670,7 +5761,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13582
+    "mods_key": 13582,
+    "npc_master_key": 3
   },
   {
     "primary": 100,
@@ -5751,7 +5843,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13583
+    "mods_key": 13583,
+    "npc_master_key": 3
   },
   {
     "primary": 101,
@@ -5831,7 +5924,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13585
+    "mods_key": 13585,
+    "npc_master_key": 3
   },
   {
     "primary": 102,
@@ -5911,7 +6005,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13586
+    "mods_key": 13586,
+    "npc_master_key": 3
   },
   {
     "primary": 103,
@@ -5991,7 +6086,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13588
+    "mods_key": 13588,
+    "npc_master_key": 3
   },
   {
     "primary": 104,
@@ -6071,7 +6167,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13589
+    "mods_key": 13589,
+    "npc_master_key": 3
   },
   {
     "primary": 105,
@@ -6151,7 +6248,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13590
+    "mods_key": 13590,
+    "npc_master_key": 3
   },
   {
     "primary": 106,
@@ -6231,7 +6329,8 @@
       "Amulet",
       "Quiver"
     ],
-    "mods_key": 13591
+    "mods_key": 13591,
+    "npc_master_key": 3
   },
   {
     "primary": 107,
@@ -6289,7 +6388,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13592
+    "mods_key": 13592,
+    "npc_master_key": 3
   },
   {
     "primary": 108,
@@ -6347,7 +6447,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13593
+    "mods_key": 13593,
+    "npc_master_key": 3
   },
   {
     "primary": 109,
@@ -6405,7 +6506,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13594
+    "mods_key": 13594,
+    "npc_master_key": 3
   },
   {
     "primary": 110,
@@ -6473,7 +6575,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13596
+    "mods_key": 13596,
+    "npc_master_key": 3
   },
   {
     "primary": 111,
@@ -6541,7 +6644,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13597
+    "mods_key": 13597,
+    "npc_master_key": 3
   },
   {
     "primary": 112,
@@ -6599,7 +6703,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Gloves", "Boots", "Helmet", "Shield"],
-    "mods_key": 13598
+    "mods_key": 13598,
+    "npc_master_key": 3
   },
   {
     "primary": 113,
@@ -6657,7 +6762,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13599
+    "mods_key": 13599,
+    "npc_master_key": 3
   },
   {
     "primary": 114,
@@ -6715,7 +6821,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Ring", "Amulet", "Gloves", "Quiver"],
-    "mods_key": 13600
+    "mods_key": 13600,
+    "npc_master_key": 3
   },
   {
     "primary": 115,
@@ -6773,7 +6880,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13601
+    "mods_key": 13601,
+    "npc_master_key": 3
   },
   {
     "primary": 116,
@@ -6845,7 +6953,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13602
+    "mods_key": 13602,
+    "npc_master_key": 3
   },
   {
     "primary": 117,
@@ -6915,7 +7024,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13603
+    "mods_key": 13603,
+    "npc_master_key": 3
   },
   {
     "primary": 118,
@@ -6987,7 +7097,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13604
+    "mods_key": 13604,
+    "npc_master_key": 3
   },
   {
     "primary": 119,
@@ -7068,7 +7179,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13605
+    "mods_key": 13605,
+    "npc_master_key": 3
   },
   {
     "primary": 120,
@@ -7149,7 +7261,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13606
+    "mods_key": 13606,
+    "npc_master_key": 3
   },
   {
     "primary": 121,
@@ -7230,7 +7343,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13607
+    "mods_key": 13607,
+    "npc_master_key": 3
   },
   {
     "primary": 122,
@@ -7305,7 +7419,8 @@
       "Amulet",
       "Shield"
     ],
-    "mods_key": 13608
+    "mods_key": 13608,
+    "npc_master_key": 3
   },
   {
     "primary": 123,
@@ -7380,7 +7495,8 @@
       "Amulet",
       "Shield"
     ],
-    "mods_key": 13609
+    "mods_key": 13609,
+    "npc_master_key": 3
   },
   {
     "primary": 124,
@@ -7452,7 +7568,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13610
+    "mods_key": 13610,
+    "npc_master_key": 3
   },
   {
     "primary": 125,
@@ -7524,7 +7641,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13611
+    "mods_key": 13611,
+    "npc_master_key": 3
   },
   {
     "primary": 126,
@@ -7596,7 +7714,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13612
+    "mods_key": 13612,
+    "npc_master_key": 3
   },
   {
     "primary": 127,
@@ -7668,7 +7787,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13613
+    "mods_key": 13613,
+    "npc_master_key": 3
   },
   {
     "primary": 128,
@@ -7731,7 +7851,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13618
+    "mods_key": 13618,
+    "npc_master_key": 3
   },
   {
     "primary": 129,
@@ -7794,7 +7915,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13619
+    "mods_key": 13619,
+    "npc_master_key": 3
   },
   {
     "primary": 130,
@@ -7857,7 +7979,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13620
+    "mods_key": 13620,
+    "npc_master_key": 3
   },
   {
     "primary": 131,
@@ -7920,7 +8043,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13621
+    "mods_key": 13621,
+    "npc_master_key": 3
   },
   {
     "primary": 132,
@@ -7987,7 +8111,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13614
+    "mods_key": 13614,
+    "npc_master_key": 3
   },
   {
     "primary": 133,
@@ -8054,7 +8179,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13615
+    "mods_key": 13615,
+    "npc_master_key": 3
   },
   {
     "primary": 134,
@@ -8121,7 +8247,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13616
+    "mods_key": 13616,
+    "npc_master_key": 3
   },
   {
     "primary": 135,
@@ -8188,7 +8315,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13617
+    "mods_key": 13617,
+    "npc_master_key": 3
   },
   {
     "primary": 136,
@@ -8260,7 +8388,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13622
+    "mods_key": 13622,
+    "npc_master_key": 3
   },
   {
     "primary": 137,
@@ -8332,7 +8461,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13623
+    "mods_key": 13623,
+    "npc_master_key": 3
   },
   {
     "primary": 138,
@@ -8408,7 +8538,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13624
+    "mods_key": 13624,
+    "npc_master_key": 3
   },
   {
     "primary": 139,
@@ -8482,7 +8613,8 @@
       "Quiver",
       "Belt"
     ],
-    "mods_key": 13625
+    "mods_key": 13625,
+    "npc_master_key": 3
   },
   {
     "primary": 140,
@@ -8554,7 +8686,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13626
+    "mods_key": 13626,
+    "npc_master_key": 3
   },
   {
     "primary": 141,
@@ -8624,7 +8757,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13627
+    "mods_key": 13627,
+    "npc_master_key": 3
   },
   {
     "primary": 142,
@@ -8694,7 +8828,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13628
+    "mods_key": 13628,
+    "npc_master_key": 3
   },
   {
     "primary": 143,
@@ -8752,7 +8887,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Wand", "Bow"],
-    "mods_key": 13629
+    "mods_key": 13629,
+    "npc_master_key": 3
   },
   {
     "primary": 144,
@@ -8810,7 +8946,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13630
+    "mods_key": 13630,
+    "npc_master_key": 3
   },
   {
     "primary": 145,
@@ -8873,7 +9010,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13636
+    "mods_key": 13636,
+    "npc_master_key": 3
   },
   {
     "primary": 146,
@@ -8936,7 +9074,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13637
+    "mods_key": 13637,
+    "npc_master_key": 3
   },
   {
     "primary": 147,
@@ -8999,7 +9138,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13638
+    "mods_key": 13638,
+    "npc_master_key": 3
   },
   {
     "primary": 148,
@@ -9066,7 +9206,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13632
+    "mods_key": 13632,
+    "npc_master_key": 3
   },
   {
     "primary": 149,
@@ -9133,7 +9274,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13634
+    "mods_key": 13634,
+    "npc_master_key": 3
   },
   {
     "primary": 150,
@@ -9200,7 +9342,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13635
+    "mods_key": 13635,
+    "npc_master_key": 3
   },
   {
     "primary": 151,
@@ -9263,7 +9406,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13642
+    "mods_key": 13642,
+    "npc_master_key": 3
   },
   {
     "primary": 152,
@@ -9326,7 +9470,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13643
+    "mods_key": 13643,
+    "npc_master_key": 3
   },
   {
     "primary": 153,
@@ -9389,7 +9534,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13644
+    "mods_key": 13644,
+    "npc_master_key": 3
   },
   {
     "primary": 154,
@@ -9456,7 +9602,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13639
+    "mods_key": 13639,
+    "npc_master_key": 3
   },
   {
     "primary": 155,
@@ -9523,7 +9670,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13640
+    "mods_key": 13640,
+    "npc_master_key": 3
   },
   {
     "primary": 156,
@@ -9590,7 +9738,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13641
+    "mods_key": 13641,
+    "npc_master_key": 3
   },
   {
     "primary": 157,
@@ -9664,7 +9813,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13645
+    "mods_key": 13645,
+    "npc_master_key": 3
   },
   {
     "primary": 158,
@@ -9738,7 +9888,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13646
+    "mods_key": 13646,
+    "npc_master_key": 3
   },
   {
     "primary": 159,
@@ -9801,7 +9952,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13650
+    "mods_key": 13650,
+    "npc_master_key": 3
   },
   {
     "primary": 160,
@@ -9864,7 +10016,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13651
+    "mods_key": 13651,
+    "npc_master_key": 3
   },
   {
     "primary": 161,
@@ -9927,7 +10080,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13652
+    "mods_key": 13652,
+    "npc_master_key": 3
   },
   {
     "primary": 162,
@@ -9994,7 +10148,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13647
+    "mods_key": 13647,
+    "npc_master_key": 3
   },
   {
     "primary": 163,
@@ -10061,7 +10216,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13648
+    "mods_key": 13648,
+    "npc_master_key": 3
   },
   {
     "primary": 164,
@@ -10128,7 +10284,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13649
+    "mods_key": 13649,
+    "npc_master_key": 3
   },
   {
     "primary": 165,
@@ -10202,7 +10359,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13653
+    "mods_key": 13653,
+    "npc_master_key": 3
   },
   {
     "primary": 166,
@@ -10276,7 +10434,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13654
+    "mods_key": 13654,
+    "npc_master_key": 3
   },
   {
     "primary": 167,
@@ -10339,7 +10498,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13658
+    "mods_key": 13658,
+    "npc_master_key": 3
   },
   {
     "primary": 168,
@@ -10402,7 +10562,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13659
+    "mods_key": 13659,
+    "npc_master_key": 3
   },
   {
     "primary": 169,
@@ -10465,7 +10626,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13660
+    "mods_key": 13660,
+    "npc_master_key": 3
   },
   {
     "primary": 170,
@@ -10532,7 +10694,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13655
+    "mods_key": 13655,
+    "npc_master_key": 3
   },
   {
     "primary": 171,
@@ -10599,7 +10762,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13656
+    "mods_key": 13656,
+    "npc_master_key": 3
   },
   {
     "primary": 172,
@@ -10666,7 +10830,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13657
+    "mods_key": 13657,
+    "npc_master_key": 3
   },
   {
     "primary": 173,
@@ -10740,7 +10905,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13661
+    "mods_key": 13661,
+    "npc_master_key": 3
   },
   {
     "primary": 174,
@@ -10814,7 +10980,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13662
+    "mods_key": 13662,
+    "npc_master_key": 3
   },
   {
     "primary": 175,
@@ -10877,7 +11044,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13666
+    "mods_key": 13666,
+    "npc_master_key": 3
   },
   {
     "primary": 176,
@@ -10940,7 +11108,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13667
+    "mods_key": 13667,
+    "npc_master_key": 3
   },
   {
     "primary": 177,
@@ -11003,7 +11172,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13668
+    "mods_key": 13668,
+    "npc_master_key": 3
   },
   {
     "primary": 178,
@@ -11070,7 +11240,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13663
+    "mods_key": 13663,
+    "npc_master_key": 3
   },
   {
     "primary": 179,
@@ -11137,7 +11308,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13664
+    "mods_key": 13664,
+    "npc_master_key": 3
   },
   {
     "primary": 180,
@@ -11204,7 +11376,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13665
+    "mods_key": 13665,
+    "npc_master_key": 3
   },
   {
     "primary": 181,
@@ -11278,7 +11451,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13669
+    "mods_key": 13669,
+    "npc_master_key": 3
   },
   {
     "primary": 182,
@@ -11352,7 +11526,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13670
+    "mods_key": 13670,
+    "npc_master_key": 3
   },
   {
     "primary": 183,
@@ -11424,7 +11599,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13671
+    "mods_key": 13671,
+    "npc_master_key": 3
   },
   {
     "primary": 184,
@@ -11496,7 +11672,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13672
+    "mods_key": 13672,
+    "npc_master_key": 3
   },
   {
     "primary": 185,
@@ -11568,7 +11745,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13673
+    "mods_key": 13673,
+    "npc_master_key": 3
   },
   {
     "primary": 186,
@@ -11626,7 +11804,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Gloves", "Helmet", "Ring", "Amulet", "Quiver", "Shield"],
-    "mods_key": 13674
+    "mods_key": 13674,
+    "npc_master_key": 3
   },
   {
     "primary": 187,
@@ -11684,7 +11863,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Gloves", "Helmet", "Ring", "Amulet", "Quiver", "Shield"],
-    "mods_key": 13675
+    "mods_key": 13675,
+    "npc_master_key": 3
   },
   {
     "primary": 188,
@@ -11742,7 +11922,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Gloves", "Helmet", "Ring", "Amulet", "Quiver", "Shield"],
-    "mods_key": 13676
+    "mods_key": 13676,
+    "npc_master_key": 3
   },
   {
     "primary": 189,
@@ -11800,7 +11981,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Amulet"],
-    "mods_key": 13677
+    "mods_key": 13677,
+    "npc_master_key": 3
   },
   {
     "primary": 190,
@@ -11858,7 +12040,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Amulet"],
-    "mods_key": 13678
+    "mods_key": 13678,
+    "npc_master_key": 3
   },
   {
     "primary": 191,
@@ -11916,7 +12099,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13679
+    "mods_key": 13679,
+    "npc_master_key": 3
   },
   {
     "primary": 192,
@@ -11974,7 +12158,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13680
+    "mods_key": 13680,
+    "npc_master_key": 3
   },
   {
     "primary": 193,
@@ -12032,7 +12217,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13681
+    "mods_key": 13681,
+    "npc_master_key": 3
   },
   {
     "primary": 194,
@@ -12090,7 +12276,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13682
+    "mods_key": 13682,
+    "npc_master_key": 3
   },
   {
     "primary": 195,
@@ -12148,7 +12335,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Helmet", "Shield"],
-    "mods_key": 13683
+    "mods_key": 13683,
+    "npc_master_key": 3
   },
   {
     "primary": 196,
@@ -12206,7 +12394,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13684
+    "mods_key": 13684,
+    "npc_master_key": 3
   },
   {
     "primary": 197,
@@ -12264,7 +12453,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13685
+    "mods_key": 13685,
+    "npc_master_key": 3
   },
   {
     "primary": 198,
@@ -12322,7 +12512,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13686
+    "mods_key": 13686,
+    "npc_master_key": 3
   },
   {
     "primary": 199,
@@ -12380,7 +12571,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13687
+    "mods_key": 13687,
+    "npc_master_key": 3
   },
   {
     "primary": 200,
@@ -12438,7 +12630,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13688
+    "mods_key": 13688,
+    "npc_master_key": 3
   },
   {
     "primary": 201,
@@ -12496,7 +12689,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Helmet", "Shield"],
-    "mods_key": 13689
+    "mods_key": 13689,
+    "npc_master_key": 3
   },
   {
     "primary": 202,
@@ -12554,7 +12748,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13690
+    "mods_key": 13690,
+    "npc_master_key": 3
   },
   {
     "primary": 203,
@@ -12612,7 +12807,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13691
+    "mods_key": 13691,
+    "npc_master_key": 3
   },
   {
     "primary": 204,
@@ -12670,7 +12866,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13692
+    "mods_key": 13692,
+    "npc_master_key": 3
   },
   {
     "primary": 205,
@@ -12728,7 +12925,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13693
+    "mods_key": 13693,
+    "npc_master_key": 3
   },
   {
     "primary": 206,
@@ -12786,7 +12984,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13694
+    "mods_key": 13694,
+    "npc_master_key": 3
   },
   {
     "primary": 207,
@@ -12844,7 +13043,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Helmet", "Shield"],
-    "mods_key": 13695
+    "mods_key": 13695,
+    "npc_master_key": 3
   },
   {
     "primary": 208,
@@ -12902,7 +13102,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13696
+    "mods_key": 13696,
+    "npc_master_key": 3
   },
   {
     "primary": 209,
@@ -12960,7 +13161,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13697
+    "mods_key": 13697,
+    "npc_master_key": 3
   },
   {
     "primary": 210,
@@ -13018,7 +13220,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13698
+    "mods_key": 13698,
+    "npc_master_key": 3
   },
   {
     "primary": 211,
@@ -13076,7 +13279,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13699
+    "mods_key": 13699,
+    "npc_master_key": 3
   },
   {
     "primary": 212,
@@ -13134,7 +13338,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13700
+    "mods_key": 13700,
+    "npc_master_key": 3
   },
   {
     "primary": 213,
@@ -13192,7 +13397,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13701
+    "mods_key": 13701,
+    "npc_master_key": 3
   },
   {
     "primary": 214,
@@ -13250,7 +13456,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13702
+    "mods_key": 13702,
+    "npc_master_key": 3
   },
   {
     "primary": 215,
@@ -13308,7 +13515,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13703
+    "mods_key": 13703,
+    "npc_master_key": 3
   },
   {
     "primary": 216,
@@ -13366,7 +13574,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13704
+    "mods_key": 13704,
+    "npc_master_key": 3
   },
   {
     "primary": 217,
@@ -13424,7 +13633,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13705
+    "mods_key": 13705,
+    "npc_master_key": 3
   },
   {
     "primary": 218,
@@ -13482,7 +13692,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13706
+    "mods_key": 13706,
+    "npc_master_key": 3
   },
   {
     "primary": 219,
@@ -13540,7 +13751,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13707
+    "mods_key": 13707,
+    "npc_master_key": 3
   },
   {
     "primary": 220,
@@ -13606,7 +13818,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13711
+    "mods_key": 13711,
+    "npc_master_key": 3
   },
   {
     "primary": 221,
@@ -13672,7 +13885,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13712
+    "mods_key": 13712,
+    "npc_master_key": 3
   },
   {
     "primary": 222,
@@ -13738,7 +13952,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13713
+    "mods_key": 13713,
+    "npc_master_key": 3
   },
   {
     "primary": 223,
@@ -13809,7 +14024,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13708
+    "mods_key": 13708,
+    "npc_master_key": 3
   },
   {
     "primary": 224,
@@ -13880,7 +14096,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13709
+    "mods_key": 13709,
+    "npc_master_key": 3
   },
   {
     "primary": 225,
@@ -13951,7 +14168,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13710
+    "mods_key": 13710,
+    "npc_master_key": 3
   },
   {
     "primary": 226,
@@ -14012,7 +14230,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13714
+    "mods_key": 13714,
+    "npc_master_key": 3
   },
   {
     "primary": 227,
@@ -14073,7 +14292,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13715
+    "mods_key": 13715,
+    "npc_master_key": 3
   },
   {
     "primary": 228,
@@ -14139,7 +14359,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13719
+    "mods_key": 13719,
+    "npc_master_key": 3
   },
   {
     "primary": 229,
@@ -14205,7 +14426,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13720
+    "mods_key": 13720,
+    "npc_master_key": 3
   },
   {
     "primary": 230,
@@ -14271,7 +14493,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13721
+    "mods_key": 13721,
+    "npc_master_key": 3
   },
   {
     "primary": 231,
@@ -14342,7 +14565,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13716
+    "mods_key": 13716,
+    "npc_master_key": 3
   },
   {
     "primary": 232,
@@ -14413,7 +14637,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13717
+    "mods_key": 13717,
+    "npc_master_key": 3
   },
   {
     "primary": 233,
@@ -14484,7 +14709,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13718
+    "mods_key": 13718,
+    "npc_master_key": 3
   },
   {
     "primary": 234,
@@ -14545,7 +14771,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13722
+    "mods_key": 13722,
+    "npc_master_key": 3
   },
   {
     "primary": 235,
@@ -14606,7 +14833,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13723
+    "mods_key": 13723,
+    "npc_master_key": 3
   },
   {
     "primary": 236,
@@ -14672,7 +14900,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13727
+    "mods_key": 13727,
+    "npc_master_key": 3
   },
   {
     "primary": 237,
@@ -14738,7 +14967,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13728
+    "mods_key": 13728,
+    "npc_master_key": 3
   },
   {
     "primary": 238,
@@ -14804,7 +15034,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13729
+    "mods_key": 13729,
+    "npc_master_key": 3
   },
   {
     "primary": 239,
@@ -14875,7 +15106,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13724
+    "mods_key": 13724,
+    "npc_master_key": 3
   },
   {
     "primary": 240,
@@ -14946,7 +15178,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13725
+    "mods_key": 13725,
+    "npc_master_key": 3
   },
   {
     "primary": 241,
@@ -15017,7 +15250,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13726
+    "mods_key": 13726,
+    "npc_master_key": 3
   },
   {
     "primary": 242,
@@ -15078,7 +15312,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13730
+    "mods_key": 13730,
+    "npc_master_key": 3
   },
   {
     "primary": 243,
@@ -15139,7 +15374,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13731
+    "mods_key": 13731,
+    "npc_master_key": 3
   },
   {
     "primary": 244,
@@ -15206,7 +15442,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13735
+    "mods_key": 13735,
+    "npc_master_key": 3
   },
   {
     "primary": 245,
@@ -15273,7 +15510,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13736
+    "mods_key": 13736,
+    "npc_master_key": 3
   },
   {
     "primary": 246,
@@ -15340,7 +15578,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13737
+    "mods_key": 13737,
+    "npc_master_key": 3
   },
   {
     "primary": 247,
@@ -15410,7 +15649,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13732
+    "mods_key": 13732,
+    "npc_master_key": 3
   },
   {
     "primary": 248,
@@ -15480,7 +15720,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13733
+    "mods_key": 13733,
+    "npc_master_key": 3
   },
   {
     "primary": 249,
@@ -15550,7 +15791,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13734
+    "mods_key": 13734,
+    "npc_master_key": 3
   },
   {
     "primary": 250,
@@ -15611,7 +15853,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet", "Quiver", "Gloves"],
-    "mods_key": 13738
+    "mods_key": 13738,
+    "npc_master_key": 3
   },
   {
     "primary": 251,
@@ -15672,7 +15915,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13739
+    "mods_key": 13739,
+    "npc_master_key": 3
   },
   {
     "primary": 252,
@@ -15733,7 +15977,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet", "Quiver", "Gloves"],
-    "mods_key": 13740
+    "mods_key": 13740,
+    "npc_master_key": 3
   },
   {
     "primary": 253,
@@ -15794,7 +16039,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13741
+    "mods_key": 13741,
+    "npc_master_key": 3
   },
   {
     "primary": 254,
@@ -15860,7 +16106,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13745
+    "mods_key": 13745,
+    "npc_master_key": 3
   },
   {
     "primary": 255,
@@ -15926,7 +16173,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13746
+    "mods_key": 13746,
+    "npc_master_key": 3
   },
   {
     "primary": 256,
@@ -15992,7 +16240,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13747
+    "mods_key": 13747,
+    "npc_master_key": 3
   },
   {
     "primary": 257,
@@ -16062,7 +16311,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13742
+    "mods_key": 13742,
+    "npc_master_key": 3
   },
   {
     "primary": 258,
@@ -16132,7 +16382,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13743
+    "mods_key": 13743,
+    "npc_master_key": 3
   },
   {
     "primary": 259,
@@ -16202,7 +16453,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13744
+    "mods_key": 13744,
+    "npc_master_key": 3
   },
   {
     "primary": 260,
@@ -16268,7 +16520,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13751
+    "mods_key": 13751,
+    "npc_master_key": 3
   },
   {
     "primary": 261,
@@ -16334,7 +16587,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13752
+    "mods_key": 13752,
+    "npc_master_key": 3
   },
   {
     "primary": 262,
@@ -16400,7 +16654,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13753
+    "mods_key": 13753,
+    "npc_master_key": 3
   },
   {
     "primary": 263,
@@ -16470,7 +16725,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13748
+    "mods_key": 13748,
+    "npc_master_key": 3
   },
   {
     "primary": 264,
@@ -16540,7 +16796,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13749
+    "mods_key": 13749,
+    "npc_master_key": 3
   },
   {
     "primary": 265,
@@ -16610,7 +16867,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13750
+    "mods_key": 13750,
+    "npc_master_key": 3
   },
   {
     "primary": 266,
@@ -16676,7 +16934,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13757
+    "mods_key": 13757,
+    "npc_master_key": 3
   },
   {
     "primary": 267,
@@ -16742,7 +17001,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13758
+    "mods_key": 13758,
+    "npc_master_key": 3
   },
   {
     "primary": 268,
@@ -16808,7 +17068,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13759
+    "mods_key": 13759,
+    "npc_master_key": 3
   },
   {
     "primary": 269,
@@ -16878,7 +17139,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13754
+    "mods_key": 13754,
+    "npc_master_key": 3
   },
   {
     "primary": 270,
@@ -16948,7 +17210,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13755
+    "mods_key": 13755,
+    "npc_master_key": 3
   },
   {
     "primary": 271,
@@ -17018,7 +17281,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13756
+    "mods_key": 13756,
+    "npc_master_key": 3
   },
   {
     "primary": 272,
@@ -17090,7 +17354,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13760
+    "mods_key": 13760,
+    "npc_master_key": 3
   },
   {
     "primary": 273,
@@ -17162,7 +17427,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13761
+    "mods_key": 13761,
+    "npc_master_key": 3
   },
   {
     "primary": 274,
@@ -17234,7 +17500,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13762
+    "mods_key": 13762,
+    "npc_master_key": 3
   },
   {
     "primary": 275,
@@ -17306,7 +17573,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13763
+    "mods_key": 13763,
+    "npc_master_key": 3
   },
   {
     "primary": 276,
@@ -17378,7 +17646,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13764
+    "mods_key": 13764,
+    "npc_master_key": 3
   },
   {
     "primary": 277,
@@ -17450,7 +17719,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13765
+    "mods_key": 13765,
+    "npc_master_key": 3
   },
   {
     "primary": 278,
@@ -17513,7 +17783,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13768
+    "mods_key": 13768,
+    "npc_master_key": 3
   },
   {
     "primary": 279,
@@ -17576,7 +17847,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13769
+    "mods_key": 13769,
+    "npc_master_key": 3
   },
   {
     "primary": 280,
@@ -17643,7 +17915,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13766
+    "mods_key": 13766,
+    "npc_master_key": 3
   },
   {
     "primary": 281,
@@ -17710,7 +17983,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13767
+    "mods_key": 13767,
+    "npc_master_key": 3
   },
   {
     "primary": 282,
@@ -17768,7 +18042,8 @@
       "tags": []
     },
     "item_classes": ["Quiver", "Amulet"],
-    "mods_key": 13770
+    "mods_key": 13770,
+    "npc_master_key": 3
   },
   {
     "primary": 283,
@@ -17826,7 +18101,8 @@
       "tags": []
     },
     "item_classes": ["Quiver", "Amulet"],
-    "mods_key": 13771
+    "mods_key": 13771,
+    "npc_master_key": 3
   },
   {
     "primary": 284,
@@ -17884,7 +18160,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13772
+    "mods_key": 13772,
+    "npc_master_key": 3
   },
   {
     "primary": 285,
@@ -17942,7 +18219,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13773
+    "mods_key": 13773,
+    "npc_master_key": 3
   },
   {
     "primary": 286,
@@ -18000,7 +18278,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13774
+    "mods_key": 13774,
+    "npc_master_key": 3
   },
   {
     "primary": 287,
@@ -18058,7 +18337,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13775
+    "mods_key": 13775,
+    "npc_master_key": 3
   },
   {
     "primary": 288,
@@ -18116,7 +18396,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13776
+    "mods_key": 13776,
+    "npc_master_key": 3
   },
   {
     "primary": 289,
@@ -18174,7 +18455,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13777
+    "mods_key": 13777,
+    "npc_master_key": 3
   },
   {
     "primary": 290,
@@ -18232,7 +18514,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13778
+    "mods_key": 13778,
+    "npc_master_key": 3
   },
   {
     "primary": 291,
@@ -18290,7 +18573,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13779
+    "mods_key": 13779,
+    "npc_master_key": 3
   },
   {
     "primary": 292,
@@ -18348,7 +18632,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13780
+    "mods_key": 13780,
+    "npc_master_key": 3
   },
   {
     "primary": 293,
@@ -18406,7 +18691,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13781
+    "mods_key": 13781,
+    "npc_master_key": 3
   },
   {
     "primary": 294,
@@ -18464,7 +18750,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13782
+    "mods_key": 13782,
+    "npc_master_key": 3
   },
   {
     "primary": 295,
@@ -18522,7 +18809,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13783
+    "mods_key": 13783,
+    "npc_master_key": 3
   },
   {
     "primary": 296,
@@ -18580,7 +18868,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13784
+    "mods_key": 13784,
+    "npc_master_key": 3
   },
   {
     "primary": 297,
@@ -18638,7 +18927,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13785
+    "mods_key": 13785,
+    "npc_master_key": 3
   },
   {
     "primary": 298,
@@ -18696,7 +18986,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13786
+    "mods_key": 13786,
+    "npc_master_key": 3
   },
   {
     "primary": 299,
@@ -18754,7 +19045,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13787
+    "mods_key": 13787,
+    "npc_master_key": 3
   },
   {
     "primary": 300,
@@ -18812,7 +19104,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13788
+    "mods_key": 13788,
+    "npc_master_key": 3
   },
   {
     "primary": 301,
@@ -18876,7 +19169,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13792
+    "mods_key": 13792,
+    "npc_master_key": 3
   },
   {
     "primary": 302,
@@ -18940,7 +19234,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13793
+    "mods_key": 13793,
+    "npc_master_key": 3
   },
   {
     "primary": 303,
@@ -19004,7 +19299,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13794
+    "mods_key": 13794,
+    "npc_master_key": 3
   },
   {
     "primary": 304,
@@ -19071,7 +19367,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13789
+    "mods_key": 13789,
+    "npc_master_key": 3
   },
   {
     "primary": 305,
@@ -19138,7 +19435,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13790
+    "mods_key": 13790,
+    "npc_master_key": 3
   },
   {
     "primary": 306,
@@ -19205,7 +19503,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13791
+    "mods_key": 13791,
+    "npc_master_key": 3
   },
   {
     "primary": 307,
@@ -19277,7 +19576,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13795
+    "mods_key": 13795,
+    "npc_master_key": 3
   },
   {
     "primary": 308,
@@ -19349,7 +19649,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13796
+    "mods_key": 13796,
+    "npc_master_key": 3
   },
   {
     "primary": 309,
@@ -19421,7 +19722,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13797
+    "mods_key": 13797,
+    "npc_master_key": 3
   },
   {
     "primary": 310,
@@ -19493,7 +19795,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13798
+    "mods_key": 13798,
+    "npc_master_key": 3
   },
   {
     "primary": 311,
@@ -19551,7 +19854,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13631
+    "mods_key": 13631,
+    "npc_master_key": 3
   },
   {
     "primary": 312,
@@ -19609,7 +19913,8 @@
       "tags": ["has_caster_mod"]
     },
     "item_classes": ["Shield", "Amulet"],
-    "mods_key": 13633
+    "mods_key": 13633,
+    "npc_master_key": 3
   },
   {
     "primary": 313,
@@ -19705,7 +20010,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13109
+    "mods_key": 13109,
+    "npc_master_key": 5
   },
   {
     "primary": 314,
@@ -19801,7 +20107,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13110
+    "mods_key": 13110,
+    "npc_master_key": 5
   },
   {
     "primary": 315,
@@ -19897,7 +20204,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13111
+    "mods_key": 13111,
+    "npc_master_key": 5
   },
   {
     "primary": 316,
@@ -19993,7 +20301,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13112
+    "mods_key": 13112,
+    "npc_master_key": 5
   },
   {
     "primary": 317,
@@ -20089,7 +20398,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13113
+    "mods_key": 13113,
+    "npc_master_key": 5
   },
   {
     "primary": 318,
@@ -20185,7 +20495,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13114
+    "mods_key": 13114,
+    "npc_master_key": 5
   },
   {
     "primary": 319,
@@ -20281,7 +20592,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13115
+    "mods_key": 13115,
+    "npc_master_key": 5
   },
   {
     "primary": 320,
@@ -20377,7 +20689,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13116
+    "mods_key": 13116,
+    "npc_master_key": 5
   },
   {
     "primary": 321,
@@ -20473,7 +20786,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13117
+    "mods_key": 13117,
+    "npc_master_key": 5
   },
   {
     "primary": 322,
@@ -20569,7 +20883,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13118
+    "mods_key": 13118,
+    "npc_master_key": 5
   },
   {
     "primary": 323,
@@ -20665,7 +20980,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13119
+    "mods_key": 13119,
+    "npc_master_key": 5
   },
   {
     "primary": 324,
@@ -20761,7 +21077,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13120
+    "mods_key": 13120,
+    "npc_master_key": 5
   },
   {
     "primary": 325,
@@ -20857,7 +21174,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13121
+    "mods_key": 13121,
+    "npc_master_key": 5
   },
   {
     "primary": 326,
@@ -20953,7 +21271,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13122
+    "mods_key": 13122,
+    "npc_master_key": 5
   },
   {
     "primary": 327,
@@ -21049,7 +21368,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13123
+    "mods_key": 13123,
+    "npc_master_key": 5
   },
   {
     "primary": 328,
@@ -21145,7 +21465,8 @@
       "Wand",
       "Bow"
     ],
-    "mods_key": 13124
+    "mods_key": 13124,
+    "npc_master_key": 5
   },
   {
     "primary": 329,
@@ -21229,7 +21550,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13150
+    "mods_key": 13150,
+    "npc_master_key": 5
   },
   {
     "primary": 330,
@@ -21313,7 +21635,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13151
+    "mods_key": 13151,
+    "npc_master_key": 5
   },
   {
     "primary": 331,
@@ -21397,7 +21720,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13152
+    "mods_key": 13152,
+    "npc_master_key": 5
   },
   {
     "primary": 332,
@@ -21481,7 +21805,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13153
+    "mods_key": 13153,
+    "npc_master_key": 5
   },
   {
     "primary": 333,
@@ -21576,7 +21901,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13146
+    "mods_key": 13146,
+    "npc_master_key": 5
   },
   {
     "primary": 334,
@@ -21671,7 +21997,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13147
+    "mods_key": 13147,
+    "npc_master_key": 5
   },
   {
     "primary": 335,
@@ -21766,7 +22093,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13148
+    "mods_key": 13148,
+    "npc_master_key": 5
   },
   {
     "primary": 336,
@@ -21861,7 +22189,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13149
+    "mods_key": 13149,
+    "npc_master_key": 5
   },
   {
     "primary": 337,
@@ -21945,7 +22274,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13158
+    "mods_key": 13158,
+    "npc_master_key": 5
   },
   {
     "primary": 338,
@@ -22029,7 +22359,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13159
+    "mods_key": 13159,
+    "npc_master_key": 5
   },
   {
     "primary": 339,
@@ -22113,7 +22444,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13160
+    "mods_key": 13160,
+    "npc_master_key": 5
   },
   {
     "primary": 340,
@@ -22197,7 +22529,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13161
+    "mods_key": 13161,
+    "npc_master_key": 5
   },
   {
     "primary": 341,
@@ -22292,7 +22625,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13154
+    "mods_key": 13154,
+    "npc_master_key": 5
   },
   {
     "primary": 342,
@@ -22387,7 +22721,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13155
+    "mods_key": 13155,
+    "npc_master_key": 5
   },
   {
     "primary": 343,
@@ -22482,7 +22817,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13156
+    "mods_key": 13156,
+    "npc_master_key": 5
   },
   {
     "primary": 344,
@@ -22577,7 +22913,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13157
+    "mods_key": 13157,
+    "npc_master_key": 5
   },
   {
     "primary": 345,
@@ -22661,7 +22998,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13166
+    "mods_key": 13166,
+    "npc_master_key": 5
   },
   {
     "primary": 346,
@@ -22745,7 +23083,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13167
+    "mods_key": 13167,
+    "npc_master_key": 5
   },
   {
     "primary": 347,
@@ -22829,7 +23168,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13168
+    "mods_key": 13168,
+    "npc_master_key": 5
   },
   {
     "primary": 348,
@@ -22913,7 +23253,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13169
+    "mods_key": 13169,
+    "npc_master_key": 5
   },
   {
     "primary": 349,
@@ -23008,7 +23349,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13162
+    "mods_key": 13162,
+    "npc_master_key": 5
   },
   {
     "primary": 350,
@@ -23103,7 +23445,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13163
+    "mods_key": 13163,
+    "npc_master_key": 5
   },
   {
     "primary": 351,
@@ -23198,7 +23541,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13164
+    "mods_key": 13164,
+    "npc_master_key": 5
   },
   {
     "primary": 352,
@@ -23293,7 +23637,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13165
+    "mods_key": 13165,
+    "npc_master_key": 5
   },
   {
     "primary": 353,
@@ -23377,7 +23722,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13174
+    "mods_key": 13174,
+    "npc_master_key": 5
   },
   {
     "primary": 354,
@@ -23461,7 +23807,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13175
+    "mods_key": 13175,
+    "npc_master_key": 5
   },
   {
     "primary": 355,
@@ -23545,7 +23892,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13176
+    "mods_key": 13176,
+    "npc_master_key": 5
   },
   {
     "primary": 356,
@@ -23629,7 +23977,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13177
+    "mods_key": 13177,
+    "npc_master_key": 5
   },
   {
     "primary": 357,
@@ -23724,7 +24073,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13170
+    "mods_key": 13170,
+    "npc_master_key": 5
   },
   {
     "primary": 358,
@@ -23819,7 +24169,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13171
+    "mods_key": 13171,
+    "npc_master_key": 5
   },
   {
     "primary": 359,
@@ -23914,7 +24265,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13172
+    "mods_key": 13172,
+    "npc_master_key": 5
   },
   {
     "primary": 360,
@@ -24009,7 +24361,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13173
+    "mods_key": 13173,
+    "npc_master_key": 5
   },
   {
     "primary": 361,
@@ -24092,7 +24445,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13182
+    "mods_key": 13182,
+    "npc_master_key": 5
   },
   {
     "primary": 362,
@@ -24175,7 +24529,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13183
+    "mods_key": 13183,
+    "npc_master_key": 5
   },
   {
     "primary": 363,
@@ -24258,7 +24613,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13184
+    "mods_key": 13184,
+    "npc_master_key": 5
   },
   {
     "primary": 364,
@@ -24341,7 +24697,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13185
+    "mods_key": 13185,
+    "npc_master_key": 5
   },
   {
     "primary": 365,
@@ -24436,7 +24793,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13178
+    "mods_key": 13178,
+    "npc_master_key": 5
   },
   {
     "primary": 366,
@@ -24531,7 +24889,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13179
+    "mods_key": 13179,
+    "npc_master_key": 5
   },
   {
     "primary": 367,
@@ -24626,7 +24985,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13180
+    "mods_key": 13180,
+    "npc_master_key": 5
   },
   {
     "primary": 368,
@@ -24721,7 +25081,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13181
+    "mods_key": 13181,
+    "npc_master_key": 5
   },
   {
     "primary": 369,
@@ -24804,7 +25165,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13190
+    "mods_key": 13190,
+    "npc_master_key": 5
   },
   {
     "primary": 370,
@@ -24887,7 +25249,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13191
+    "mods_key": 13191,
+    "npc_master_key": 5
   },
   {
     "primary": 371,
@@ -24970,7 +25333,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13192
+    "mods_key": 13192,
+    "npc_master_key": 5
   },
   {
     "primary": 372,
@@ -25053,7 +25417,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13193
+    "mods_key": 13193,
+    "npc_master_key": 5
   },
   {
     "primary": 373,
@@ -25148,7 +25513,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13186
+    "mods_key": 13186,
+    "npc_master_key": 5
   },
   {
     "primary": 374,
@@ -25243,7 +25609,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13187
+    "mods_key": 13187,
+    "npc_master_key": 5
   },
   {
     "primary": 375,
@@ -25338,7 +25705,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13188
+    "mods_key": 13188,
+    "npc_master_key": 5
   },
   {
     "primary": 376,
@@ -25433,7 +25801,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13189
+    "mods_key": 13189,
+    "npc_master_key": 5
   },
   {
     "primary": 377,
@@ -25517,7 +25886,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13198
+    "mods_key": 13198,
+    "npc_master_key": 5
   },
   {
     "primary": 378,
@@ -25601,7 +25971,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13199
+    "mods_key": 13199,
+    "npc_master_key": 5
   },
   {
     "primary": 379,
@@ -25685,7 +26056,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13200
+    "mods_key": 13200,
+    "npc_master_key": 5
   },
   {
     "primary": 380,
@@ -25769,7 +26141,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13201
+    "mods_key": 13201,
+    "npc_master_key": 5
   },
   {
     "primary": 381,
@@ -25864,7 +26237,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13194
+    "mods_key": 13194,
+    "npc_master_key": 5
   },
   {
     "primary": 382,
@@ -25959,7 +26333,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13195
+    "mods_key": 13195,
+    "npc_master_key": 5
   },
   {
     "primary": 383,
@@ -26054,7 +26429,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13196
+    "mods_key": 13196,
+    "npc_master_key": 5
   },
   {
     "primary": 384,
@@ -26149,7 +26525,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13197
+    "mods_key": 13197,
+    "npc_master_key": 5
   },
   {
     "primary": 385,
@@ -26233,7 +26610,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13206
+    "mods_key": 13206,
+    "npc_master_key": 5
   },
   {
     "primary": 386,
@@ -26317,7 +26695,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13207
+    "mods_key": 13207,
+    "npc_master_key": 5
   },
   {
     "primary": 387,
@@ -26401,7 +26780,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13208
+    "mods_key": 13208,
+    "npc_master_key": 5
   },
   {
     "primary": 388,
@@ -26485,7 +26865,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13209
+    "mods_key": 13209,
+    "npc_master_key": 5
   },
   {
     "primary": 389,
@@ -26580,7 +26961,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13202
+    "mods_key": 13202,
+    "npc_master_key": 5
   },
   {
     "primary": 390,
@@ -26675,7 +27057,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13203
+    "mods_key": 13203,
+    "npc_master_key": 5
   },
   {
     "primary": 391,
@@ -26770,7 +27153,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13204
+    "mods_key": 13204,
+    "npc_master_key": 5
   },
   {
     "primary": 392,
@@ -26865,7 +27249,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13205
+    "mods_key": 13205,
+    "npc_master_key": 5
   },
   {
     "primary": 393,
@@ -26950,7 +27335,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13210
+    "mods_key": 13210,
+    "npc_master_key": 5
   },
   {
     "primary": 394,
@@ -27035,7 +27421,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13211
+    "mods_key": 13211,
+    "npc_master_key": 5
   },
   {
     "primary": 395,
@@ -27120,7 +27507,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13212
+    "mods_key": 13212,
+    "npc_master_key": 5
   },
   {
     "primary": 396,
@@ -27205,7 +27593,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13213
+    "mods_key": 13213,
+    "npc_master_key": 5
   },
   {
     "primary": 397,
@@ -27297,7 +27686,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13214
+    "mods_key": 13214,
+    "npc_master_key": 5
   },
   {
     "primary": 398,
@@ -27389,7 +27779,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13215
+    "mods_key": 13215,
+    "npc_master_key": 5
   },
   {
     "primary": 399,
@@ -27481,7 +27872,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13216
+    "mods_key": 13216,
+    "npc_master_key": 5
   },
   {
     "primary": 400,
@@ -27573,7 +27965,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13217
+    "mods_key": 13217,
+    "npc_master_key": 5
   },
   {
     "primary": 401,
@@ -27653,7 +28046,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13218
+    "mods_key": 13218,
+    "npc_master_key": 5
   },
   {
     "primary": 402,
@@ -27733,7 +28127,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13219
+    "mods_key": 13219,
+    "npc_master_key": 5
   },
   {
     "primary": 403,
@@ -27813,7 +28208,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13220
+    "mods_key": 13220,
+    "npc_master_key": 5
   },
   {
     "primary": 404,
@@ -27893,7 +28289,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13221
+    "mods_key": 13221,
+    "npc_master_key": 5
   },
   {
     "primary": 405,
@@ -27985,7 +28382,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13222
+    "mods_key": 13222,
+    "npc_master_key": 5
   },
   {
     "primary": 406,
@@ -28077,7 +28475,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13223
+    "mods_key": 13223,
+    "npc_master_key": 5
   },
   {
     "primary": 407,
@@ -28169,7 +28568,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13224
+    "mods_key": 13224,
+    "npc_master_key": 5
   },
   {
     "primary": 408,
@@ -28261,7 +28661,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13225
+    "mods_key": 13225,
+    "npc_master_key": 5
   },
   {
     "primary": 409,
@@ -28350,7 +28751,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13125
+    "mods_key": 13125,
+    "npc_master_key": 5
   },
   {
     "primary": 410,
@@ -28439,7 +28841,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13126
+    "mods_key": 13126,
+    "npc_master_key": 5
   },
   {
     "primary": 411,
@@ -28528,7 +28931,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13127
+    "mods_key": 13127,
+    "npc_master_key": 5
   },
   {
     "primary": 412,
@@ -28617,7 +29021,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13128
+    "mods_key": 13128,
+    "npc_master_key": 5
   },
   {
     "primary": 413,
@@ -28706,7 +29111,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13129
+    "mods_key": 13129,
+    "npc_master_key": 5
   },
   {
     "primary": 414,
@@ -28795,7 +29201,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13130
+    "mods_key": 13130,
+    "npc_master_key": 5
   },
   {
     "primary": 415,
@@ -28868,7 +29275,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13131
+    "mods_key": 13131,
+    "npc_master_key": 5
   },
   {
     "primary": 416,
@@ -28941,7 +29349,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13132
+    "mods_key": 13132,
+    "npc_master_key": 5
   },
   {
     "primary": 417,
@@ -29014,7 +29423,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13133
+    "mods_key": 13133,
+    "npc_master_key": 5
   },
   {
     "primary": 418,
@@ -29090,7 +29500,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13134
+    "mods_key": 13134,
+    "npc_master_key": 5
   },
   {
     "primary": 419,
@@ -29166,7 +29577,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13135
+    "mods_key": 13135,
+    "npc_master_key": 5
   },
   {
     "primary": 420,
@@ -29242,7 +29654,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13136
+    "mods_key": 13136,
+    "npc_master_key": 5
   },
   {
     "primary": 421,
@@ -29312,7 +29725,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13226
+    "mods_key": 13226,
+    "npc_master_key": 5
   },
   {
     "primary": 422,
@@ -29382,7 +29796,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13227
+    "mods_key": 13227,
+    "npc_master_key": 5
   },
   {
     "primary": 423,
@@ -29452,7 +29867,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13228
+    "mods_key": 13228,
+    "npc_master_key": 5
   },
   {
     "primary": 424,
@@ -29522,7 +29938,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13229
+    "mods_key": 13229,
+    "npc_master_key": 5
   },
   {
     "primary": 425,
@@ -29592,7 +30009,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13230
+    "mods_key": 13230,
+    "npc_master_key": 5
   },
   {
     "primary": 426,
@@ -29662,7 +30080,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13231
+    "mods_key": 13231,
+    "npc_master_key": 5
   },
   {
     "primary": 427,
@@ -29732,7 +30151,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13232
+    "mods_key": 13232,
+    "npc_master_key": 5
   },
   {
     "primary": 428,
@@ -29802,7 +30222,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13233
+    "mods_key": 13233,
+    "npc_master_key": 5
   },
   {
     "primary": 429,
@@ -29872,7 +30293,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13234
+    "mods_key": 13234,
+    "npc_master_key": 5
   },
   {
     "primary": 430,
@@ -29942,7 +30364,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13235
+    "mods_key": 13235,
+    "npc_master_key": 5
   },
   {
     "primary": 431,
@@ -30012,7 +30435,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13236
+    "mods_key": 13236,
+    "npc_master_key": 5
   },
   {
     "primary": 432,
@@ -30082,7 +30506,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13237
+    "mods_key": 13237,
+    "npc_master_key": 5
   },
   {
     "primary": 433,
@@ -30152,7 +30577,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13238
+    "mods_key": 13238,
+    "npc_master_key": 5
   },
   {
     "primary": 434,
@@ -30222,7 +30648,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13239
+    "mods_key": 13239,
+    "npc_master_key": 5
   },
   {
     "primary": 435,
@@ -30292,7 +30719,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13240
+    "mods_key": 13240,
+    "npc_master_key": 5
   },
   {
     "primary": 436,
@@ -30362,7 +30790,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13241
+    "mods_key": 13241,
+    "npc_master_key": 5
   },
   {
     "primary": 437,
@@ -30432,7 +30861,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13242
+    "mods_key": 13242,
+    "npc_master_key": 5
   },
   {
     "primary": 438,
@@ -30502,7 +30932,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13243
+    "mods_key": 13243,
+    "npc_master_key": 5
   },
   {
     "primary": 439,
@@ -30572,7 +31003,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13244
+    "mods_key": 13244,
+    "npc_master_key": 5
   },
   {
     "primary": 440,
@@ -30642,7 +31074,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13245
+    "mods_key": 13245,
+    "npc_master_key": 5
   },
   {
     "primary": 441,
@@ -30712,7 +31145,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13246
+    "mods_key": 13246,
+    "npc_master_key": 5
   },
   {
     "primary": 442,
@@ -30782,7 +31216,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13247
+    "mods_key": 13247,
+    "npc_master_key": 5
   },
   {
     "primary": 443,
@@ -30852,7 +31287,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13248
+    "mods_key": 13248,
+    "npc_master_key": 5
   },
   {
     "primary": 444,
@@ -30922,7 +31358,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13249
+    "mods_key": 13249,
+    "npc_master_key": 5
   },
   {
     "primary": 445,
@@ -30992,7 +31429,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13250
+    "mods_key": 13250,
+    "npc_master_key": 5
   },
   {
     "primary": 446,
@@ -31062,7 +31500,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13251
+    "mods_key": 13251,
+    "npc_master_key": 5
   },
   {
     "primary": 447,
@@ -31132,7 +31571,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13252
+    "mods_key": 13252,
+    "npc_master_key": 5
   },
   {
     "primary": 448,
@@ -31202,7 +31642,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Boots", "Gloves", "Helmet", "Shield"],
-    "mods_key": 13253
+    "mods_key": 13253,
+    "npc_master_key": 5
   },
   {
     "primary": 449,
@@ -31311,7 +31752,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13254
+    "mods_key": 13254,
+    "npc_master_key": 5
   },
   {
     "primary": 450,
@@ -31420,7 +31862,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13255
+    "mods_key": 13255,
+    "npc_master_key": 5
   },
   {
     "primary": 451,
@@ -31529,7 +31972,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13256
+    "mods_key": 13256,
+    "npc_master_key": 5
   },
   {
     "primary": 452,
@@ -31638,7 +32082,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13257
+    "mods_key": 13257,
+    "npc_master_key": 5
   },
   {
     "primary": 453,
@@ -31747,7 +32192,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13258
+    "mods_key": 13258,
+    "npc_master_key": 5
   },
   {
     "primary": 454,
@@ -31856,7 +32302,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13259
+    "mods_key": 13259,
+    "npc_master_key": 5
   },
   {
     "primary": 455,
@@ -31965,7 +32412,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13260
+    "mods_key": 13260,
+    "npc_master_key": 5
   },
   {
     "primary": 456,
@@ -32074,7 +32522,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13261
+    "mods_key": 13261,
+    "npc_master_key": 5
   },
   {
     "primary": 457,
@@ -32183,7 +32632,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13262
+    "mods_key": 13262,
+    "npc_master_key": 5
   },
   {
     "primary": 458,
@@ -32292,7 +32742,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13263
+    "mods_key": 13263,
+    "npc_master_key": 5
   },
   {
     "primary": 459,
@@ -32401,7 +32852,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13264
+    "mods_key": 13264,
+    "npc_master_key": 5
   },
   {
     "primary": 460,
@@ -32510,7 +32962,8 @@
       "Ring",
       "Quiver"
     ],
-    "mods_key": 13265
+    "mods_key": 13265,
+    "npc_master_key": 5
   },
   {
     "primary": 461,
@@ -32581,7 +33034,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13266
+    "mods_key": 13266,
+    "npc_master_key": 5
   },
   {
     "primary": 462,
@@ -32652,7 +33106,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13267
+    "mods_key": 13267,
+    "npc_master_key": 5
   },
   {
     "primary": 463,
@@ -32723,7 +33178,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13268
+    "mods_key": 13268,
+    "npc_master_key": 5
   },
   {
     "primary": 464,
@@ -32797,7 +33253,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13269
+    "mods_key": 13269,
+    "npc_master_key": 5
   },
   {
     "primary": 465,
@@ -32871,7 +33328,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13270
+    "mods_key": 13270,
+    "npc_master_key": 5
   },
   {
     "primary": 466,
@@ -32945,7 +33403,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13271
+    "mods_key": 13271,
+    "npc_master_key": 5
   },
   {
     "primary": 467,
@@ -33019,7 +33478,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13272
+    "mods_key": 13272,
+    "npc_master_key": 5
   },
   {
     "primary": 468,
@@ -33093,7 +33553,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13273
+    "mods_key": 13273,
+    "npc_master_key": 5
   },
   {
     "primary": 469,
@@ -33167,7 +33628,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13274
+    "mods_key": 13274,
+    "npc_master_key": 5
   },
   {
     "primary": 470,
@@ -33241,7 +33703,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13275
+    "mods_key": 13275,
+    "npc_master_key": 5
   },
   {
     "primary": 471,
@@ -33315,7 +33778,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13276
+    "mods_key": 13276,
+    "npc_master_key": 5
   },
   {
     "primary": 472,
@@ -33389,7 +33853,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13277
+    "mods_key": 13277,
+    "npc_master_key": 5
   },
   {
     "primary": 473,
@@ -33464,7 +33929,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Quiver"],
-    "mods_key": 13278
+    "mods_key": 13278,
+    "npc_master_key": 5
   },
   {
     "primary": 474,
@@ -33539,7 +34005,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Quiver"],
-    "mods_key": 13279
+    "mods_key": 13279,
+    "npc_master_key": 5
   },
   {
     "primary": 475,
@@ -33614,7 +34081,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Quiver"],
-    "mods_key": 13280
+    "mods_key": 13280,
+    "npc_master_key": 5
   },
   {
     "primary": 476,
@@ -33684,7 +34152,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13281
+    "mods_key": 13281,
+    "npc_master_key": 5
   },
   {
     "primary": 477,
@@ -33754,7 +34223,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13282
+    "mods_key": 13282,
+    "npc_master_key": 5
   },
   {
     "primary": 478,
@@ -33824,7 +34294,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13283
+    "mods_key": 13283,
+    "npc_master_key": 5
   },
   {
     "primary": 479,
@@ -33894,7 +34365,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13284
+    "mods_key": 13284,
+    "npc_master_key": 5
   },
   {
     "primary": 480,
@@ -33964,7 +34436,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13285
+    "mods_key": 13285,
+    "npc_master_key": 5
   },
   {
     "primary": 481,
@@ -34034,7 +34507,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13286
+    "mods_key": 13286,
+    "npc_master_key": 5
   },
   {
     "primary": 482,
@@ -34104,7 +34578,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13287
+    "mods_key": 13287,
+    "npc_master_key": 5
   },
   {
     "primary": 483,
@@ -34174,7 +34649,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13288
+    "mods_key": 13288,
+    "npc_master_key": 5
   },
   {
     "primary": 484,
@@ -34244,7 +34720,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13289
+    "mods_key": 13289,
+    "npc_master_key": 5
   },
   {
     "primary": 485,
@@ -34315,7 +34792,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13290
+    "mods_key": 13290,
+    "npc_master_key": 5
   },
   {
     "primary": 486,
@@ -34386,7 +34864,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13291
+    "mods_key": 13291,
+    "npc_master_key": 5
   },
   {
     "primary": 487,
@@ -34457,7 +34936,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13292
+    "mods_key": 13292,
+    "npc_master_key": 5
   },
   {
     "primary": 488,
@@ -34528,7 +35008,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13293
+    "mods_key": 13293,
+    "npc_master_key": 5
   },
   {
     "primary": 489,
@@ -34598,7 +35079,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13294
+    "mods_key": 13294,
+    "npc_master_key": 5
   },
   {
     "primary": 490,
@@ -34668,7 +35150,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13295
+    "mods_key": 13295,
+    "npc_master_key": 5
   },
   {
     "primary": 491,
@@ -34738,7 +35221,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13296
+    "mods_key": 13296,
+    "npc_master_key": 5
   },
   {
     "primary": 492,
@@ -34808,7 +35292,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13297
+    "mods_key": 13297,
+    "npc_master_key": 5
   },
   {
     "primary": 493,
@@ -34882,7 +35367,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13298
+    "mods_key": 13298,
+    "npc_master_key": 5
   },
   {
     "primary": 494,
@@ -34956,7 +35442,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13299
+    "mods_key": 13299,
+    "npc_master_key": 5
   },
   {
     "primary": 495,
@@ -35030,7 +35517,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13300
+    "mods_key": 13300,
+    "npc_master_key": 5
   },
   {
     "primary": 496,
@@ -35104,7 +35592,8 @@
       "tags": []
     },
     "item_classes": ["Belt", "Quiver"],
-    "mods_key": 13301
+    "mods_key": 13301,
+    "npc_master_key": 5
   },
   {
     "primary": 497,
@@ -35171,7 +35660,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13302
+    "mods_key": 13302,
+    "npc_master_key": 5
   },
   {
     "primary": 498,
@@ -35238,7 +35728,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13303
+    "mods_key": 13303,
+    "npc_master_key": 5
   },
   {
     "primary": 499,
@@ -35305,7 +35796,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13304
+    "mods_key": 13304,
+    "npc_master_key": 5
   },
   {
     "primary": 500,
@@ -35372,7 +35864,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13305
+    "mods_key": 13305,
+    "npc_master_key": 5
   },
   {
     "primary": 501,
@@ -35439,7 +35932,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13306
+    "mods_key": 13306,
+    "npc_master_key": 5
   },
   {
     "primary": 502,
@@ -35509,7 +36003,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13307
+    "mods_key": 13307,
+    "npc_master_key": 5
   },
   {
     "primary": 503,
@@ -35579,7 +36074,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13308
+    "mods_key": 13308,
+    "npc_master_key": 5
   },
   {
     "primary": 504,
@@ -35646,7 +36142,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13309
+    "mods_key": 13309,
+    "npc_master_key": 5
   },
   {
     "primary": 505,
@@ -35713,7 +36210,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13310
+    "mods_key": 13310,
+    "npc_master_key": 5
   },
   {
     "primary": 506,
@@ -35786,7 +36284,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13312
+    "mods_key": 13312,
+    "npc_master_key": 5
   },
   {
     "primary": 507,
@@ -35862,7 +36361,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13311
+    "mods_key": 13311,
+    "npc_master_key": 5
   },
   {
     "primary": 508,
@@ -35935,7 +36435,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13314
+    "mods_key": 13314,
+    "npc_master_key": 5
   },
   {
     "primary": 509,
@@ -36011,7 +36512,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13313
+    "mods_key": 13313,
+    "npc_master_key": 5
   },
   {
     "primary": 510,
@@ -36084,7 +36586,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13316
+    "mods_key": 13316,
+    "npc_master_key": 5
   },
   {
     "primary": 511,
@@ -36160,7 +36663,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13315
+    "mods_key": 13315,
+    "npc_master_key": 5
   },
   {
     "primary": 512,
@@ -36227,7 +36731,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13317
+    "mods_key": 13317,
+    "npc_master_key": 5
   },
   {
     "primary": 513,
@@ -36294,7 +36799,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13318
+    "mods_key": 13318,
+    "npc_master_key": 5
   },
   {
     "primary": 514,
@@ -36361,7 +36867,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13319
+    "mods_key": 13319,
+    "npc_master_key": 5
   },
   {
     "primary": 515,
@@ -36438,7 +36945,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Body Armour"],
-    "mods_key": 13320
+    "mods_key": 13320,
+    "npc_master_key": 5
   },
   {
     "primary": 516,
@@ -36509,7 +37017,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Amulet"],
-    "mods_key": 13321
+    "mods_key": 13321,
+    "npc_master_key": 5
   },
   {
     "primary": 517,
@@ -36580,7 +37089,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Amulet"],
-    "mods_key": 13322
+    "mods_key": 13322,
+    "npc_master_key": 5
   },
   {
     "primary": 518,
@@ -36647,7 +37157,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13323
+    "mods_key": 13323,
+    "npc_master_key": 5
   },
   {
     "primary": 519,
@@ -36714,7 +37225,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13324
+    "mods_key": 13324,
+    "npc_master_key": 5
   },
   {
     "primary": 520,
@@ -36781,7 +37293,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13325
+    "mods_key": 13325,
+    "npc_master_key": 5
   },
   {
     "primary": 521,
@@ -36848,7 +37361,8 @@
       "tags": []
     },
     "item_classes": ["Shield"],
-    "mods_key": 13326
+    "mods_key": 13326,
+    "npc_master_key": 5
   },
   {
     "primary": 522,
@@ -36919,7 +37433,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Shield"],
-    "mods_key": 13327
+    "mods_key": 13327,
+    "npc_master_key": 5
   },
   {
     "primary": 523,
@@ -36990,7 +37505,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Shield"],
-    "mods_key": 13328
+    "mods_key": 13328,
+    "npc_master_key": 5
   },
   {
     "primary": 524,
@@ -37061,7 +37577,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Helmet"],
-    "mods_key": 13329
+    "mods_key": 13329,
+    "npc_master_key": 5
   },
   {
     "primary": 525,
@@ -37132,7 +37649,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Helmet"],
-    "mods_key": 13330
+    "mods_key": 13330,
+    "npc_master_key": 5
   },
   {
     "primary": 526,
@@ -37203,7 +37721,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13331
+    "mods_key": 13331,
+    "npc_master_key": 5
   },
   {
     "primary": 527,
@@ -37274,7 +37793,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13332
+    "mods_key": 13332,
+    "npc_master_key": 5
   },
   {
     "primary": 528,
@@ -37345,7 +37865,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13333
+    "mods_key": 13333,
+    "npc_master_key": 5
   },
   {
     "primary": 529,
@@ -37416,7 +37937,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Shield"],
-    "mods_key": 13334
+    "mods_key": 13334,
+    "npc_master_key": 5
   },
   {
     "primary": 530,
@@ -37487,7 +38009,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Gloves"],
-    "mods_key": 13335
+    "mods_key": 13335,
+    "npc_master_key": 5
   },
   {
     "primary": 531,
@@ -37558,7 +38081,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Gloves"],
-    "mods_key": 13336
+    "mods_key": 13336,
+    "npc_master_key": 5
   },
   {
     "primary": 532,
@@ -37629,7 +38153,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Gloves"],
-    "mods_key": 13337
+    "mods_key": 13337,
+    "npc_master_key": 5
   },
   {
     "primary": 533,
@@ -37700,7 +38225,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Gloves"],
-    "mods_key": 13338
+    "mods_key": 13338,
+    "npc_master_key": 5
   },
   {
     "primary": 534,
@@ -37774,7 +38300,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13339
+    "mods_key": 13339,
+    "npc_master_key": 5
   },
   {
     "primary": 535,
@@ -37848,7 +38375,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13340
+    "mods_key": 13340,
+    "npc_master_key": 5
   },
   {
     "primary": 536,
@@ -37922,7 +38450,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13341
+    "mods_key": 13341,
+    "npc_master_key": 5
   },
   {
     "primary": 537,
@@ -37995,7 +38524,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13346
+    "mods_key": 13346,
+    "npc_master_key": 5
   },
   {
     "primary": 538,
@@ -38068,7 +38598,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13347
+    "mods_key": 13347,
+    "npc_master_key": 5
   },
   {
     "primary": 539,
@@ -38141,7 +38672,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13348
+    "mods_key": 13348,
+    "npc_master_key": 5
   },
   {
     "primary": 540,
@@ -38214,7 +38746,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13349
+    "mods_key": 13349,
+    "npc_master_key": 5
   },
   {
     "primary": 541,
@@ -38290,7 +38823,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13342
+    "mods_key": 13342,
+    "npc_master_key": 5
   },
   {
     "primary": 542,
@@ -38366,7 +38900,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13343
+    "mods_key": 13343,
+    "npc_master_key": 5
   },
   {
     "primary": 543,
@@ -38442,7 +38977,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13344
+    "mods_key": 13344,
+    "npc_master_key": 5
   },
   {
     "primary": 544,
@@ -38518,7 +39054,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13345
+    "mods_key": 13345,
+    "npc_master_key": 5
   },
   {
     "primary": 545,
@@ -38591,7 +39128,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13354
+    "mods_key": 13354,
+    "npc_master_key": 5
   },
   {
     "primary": 546,
@@ -38664,7 +39202,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13355
+    "mods_key": 13355,
+    "npc_master_key": 5
   },
   {
     "primary": 547,
@@ -38737,7 +39276,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13356
+    "mods_key": 13356,
+    "npc_master_key": 5
   },
   {
     "primary": 548,
@@ -38810,7 +39350,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13357
+    "mods_key": 13357,
+    "npc_master_key": 5
   },
   {
     "primary": 549,
@@ -38886,7 +39427,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13350
+    "mods_key": 13350,
+    "npc_master_key": 5
   },
   {
     "primary": 550,
@@ -38962,7 +39504,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13351
+    "mods_key": 13351,
+    "npc_master_key": 5
   },
   {
     "primary": 551,
@@ -39038,7 +39581,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13352
+    "mods_key": 13352,
+    "npc_master_key": 5
   },
   {
     "primary": 552,
@@ -39114,7 +39658,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13353
+    "mods_key": 13353,
+    "npc_master_key": 5
   },
   {
     "primary": 553,
@@ -39189,7 +39734,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Belt"],
-    "mods_key": 13358
+    "mods_key": 13358,
+    "npc_master_key": 5
   },
   {
     "primary": 554,
@@ -39264,7 +39810,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Belt"],
-    "mods_key": 13359
+    "mods_key": 13359,
+    "npc_master_key": 5
   },
   {
     "primary": 555,
@@ -39339,7 +39886,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Belt"],
-    "mods_key": 13360
+    "mods_key": 13360,
+    "npc_master_key": 5
   },
   {
     "primary": 556,
@@ -39414,7 +39962,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour", "Belt"],
-    "mods_key": 13361
+    "mods_key": 13361,
+    "npc_master_key": 5
   },
   {
     "primary": 557,
@@ -39485,7 +40034,8 @@
       "tags": []
     },
     "item_classes": ["Quiver"],
-    "mods_key": 13362
+    "mods_key": 13362,
+    "npc_master_key": 5
   },
   {
     "primary": 558,
@@ -39556,7 +40106,8 @@
       "tags": []
     },
     "item_classes": ["Quiver"],
-    "mods_key": 13363
+    "mods_key": 13363,
+    "npc_master_key": 5
   },
   {
     "primary": 559,
@@ -39627,7 +40178,8 @@
       "tags": []
     },
     "item_classes": ["Quiver"],
-    "mods_key": 13364
+    "mods_key": 13364,
+    "npc_master_key": 5
   },
   {
     "primary": 560,
@@ -39698,7 +40250,8 @@
       "tags": []
     },
     "item_classes": ["Quiver"],
-    "mods_key": 13365
+    "mods_key": 13365,
+    "npc_master_key": 5
   },
   {
     "primary": 561,
@@ -39773,7 +40326,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13366
+    "mods_key": 13366,
+    "npc_master_key": 5
   },
   {
     "primary": 562,
@@ -39848,7 +40402,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13367
+    "mods_key": 13367,
+    "npc_master_key": 5
   },
   {
     "primary": 563,
@@ -39923,7 +40478,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13368
+    "mods_key": 13368,
+    "npc_master_key": 5
   },
   {
     "primary": 564,
@@ -39998,7 +40554,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13369
+    "mods_key": 13369,
+    "npc_master_key": 5
   },
   {
     "primary": 565,
@@ -40075,7 +40632,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13370
+    "mods_key": 13370,
+    "npc_master_key": 5
   },
   {
     "primary": 566,
@@ -40152,7 +40710,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13371
+    "mods_key": 13371,
+    "npc_master_key": 5
   },
   {
     "primary": 567,
@@ -40229,7 +40788,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13372
+    "mods_key": 13372,
+    "npc_master_key": 5
   },
   {
     "primary": 568,
@@ -40306,7 +40866,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Quiver"],
-    "mods_key": 13373
+    "mods_key": 13373,
+    "npc_master_key": 5
   },
   {
     "primary": 569,
@@ -40408,7 +40969,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13374
+    "mods_key": 13374,
+    "npc_master_key": 5
   },
   {
     "primary": 570,
@@ -40510,7 +41072,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13375
+    "mods_key": 13375,
+    "npc_master_key": 5
   },
   {
     "primary": 571,
@@ -40612,7 +41175,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13376
+    "mods_key": 13376,
+    "npc_master_key": 5
   },
   {
     "primary": 572,
@@ -40714,7 +41278,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13377
+    "mods_key": 13377,
+    "npc_master_key": 5
   },
   {
     "primary": 573,
@@ -40785,7 +41350,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Amulet"],
-    "mods_key": 13378
+    "mods_key": 13378,
+    "npc_master_key": 5
   },
   {
     "primary": 574,
@@ -40856,7 +41422,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Amulet"],
-    "mods_key": 13379
+    "mods_key": 13379,
+    "npc_master_key": 5
   },
   {
     "primary": 575,
@@ -40927,7 +41494,8 @@
       "tags": []
     },
     "item_classes": ["Boots", "Amulet"],
-    "mods_key": 13380
+    "mods_key": 13380,
+    "npc_master_key": 5
   },
   {
     "primary": 576,
@@ -41011,7 +41579,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring", "Quiver"],
-    "mods_key": 13390
+    "mods_key": 13390,
+    "npc_master_key": 5
   },
   {
     "primary": 577,
@@ -41091,7 +41660,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13391
+    "mods_key": 13391,
+    "npc_master_key": 5
   },
   {
     "primary": 578,
@@ -41171,7 +41741,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13392
+    "mods_key": 13392,
+    "npc_master_key": 5
   },
   {
     "primary": 579,
@@ -41255,7 +41826,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring", "Quiver"],
-    "mods_key": 13393
+    "mods_key": 13393,
+    "npc_master_key": 5
   },
   {
     "primary": 580,
@@ -41335,7 +41907,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13394
+    "mods_key": 13394,
+    "npc_master_key": 5
   },
   {
     "primary": 581,
@@ -41415,7 +41988,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13395
+    "mods_key": 13395,
+    "npc_master_key": 5
   },
   {
     "primary": 582,
@@ -41499,7 +42073,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring", "Quiver"],
-    "mods_key": 13396
+    "mods_key": 13396,
+    "npc_master_key": 5
   },
   {
     "primary": 583,
@@ -41579,7 +42154,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13397
+    "mods_key": 13397,
+    "npc_master_key": 5
   },
   {
     "primary": 584,
@@ -41659,7 +42235,8 @@
       "tags": []
     },
     "item_classes": ["Shield", "Ring"],
-    "mods_key": 13398
+    "mods_key": 13398,
+    "npc_master_key": 5
   },
   {
     "primary": 585,
@@ -41729,7 +42306,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13399
+    "mods_key": 13399,
+    "npc_master_key": 5
   },
   {
     "primary": 586,
@@ -41803,7 +42381,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Boots"],
-    "mods_key": 13400
+    "mods_key": 13400,
+    "npc_master_key": 5
   },
   {
     "primary": 587,
@@ -41877,7 +42456,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Boots"],
-    "mods_key": 13401
+    "mods_key": 13401,
+    "npc_master_key": 5
   },
   {
     "primary": 588,
@@ -41951,7 +42531,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Boots"],
-    "mods_key": 13402
+    "mods_key": 13402,
+    "npc_master_key": 5
   },
   {
     "primary": 589,
@@ -42025,7 +42606,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Boots"],
-    "mods_key": 13403
+    "mods_key": 13403,
+    "npc_master_key": 5
   },
   {
     "primary": 590,
@@ -42099,7 +42681,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13404
+    "mods_key": 13404,
+    "npc_master_key": 5
   },
   {
     "primary": 591,
@@ -42173,7 +42756,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13405
+    "mods_key": 13405,
+    "npc_master_key": 5
   },
   {
     "primary": 592,
@@ -42247,7 +42831,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13406
+    "mods_key": 13406,
+    "npc_master_key": 5
   },
   {
     "primary": 593,
@@ -42321,7 +42906,8 @@
       "tags": []
     },
     "item_classes": ["Helmet", "Gloves"],
-    "mods_key": 13407
+    "mods_key": 13407,
+    "npc_master_key": 5
   },
   {
     "primary": 594,
@@ -42391,7 +42977,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13408
+    "mods_key": 13408,
+    "npc_master_key": 5
   },
   {
     "primary": 595,
@@ -42461,7 +43048,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13409
+    "mods_key": 13409,
+    "npc_master_key": 5
   },
   {
     "primary": 596,
@@ -42531,7 +43119,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13410
+    "mods_key": 13410,
+    "npc_master_key": 5
   },
   {
     "primary": 597,
@@ -42601,7 +43190,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13411
+    "mods_key": 13411,
+    "npc_master_key": 5
   },
   {
     "primary": 598,
@@ -42671,7 +43261,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13412
+    "mods_key": 13412,
+    "npc_master_key": 5
   },
   {
     "primary": 599,
@@ -42741,7 +43332,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13413
+    "mods_key": 13413,
+    "npc_master_key": 5
   },
   {
     "primary": 600,
@@ -42811,7 +43403,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13414
+    "mods_key": 13414,
+    "npc_master_key": 5
   },
   {
     "primary": 601,
@@ -42881,7 +43474,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13415
+    "mods_key": 13415,
+    "npc_master_key": 5
   },
   {
     "primary": 602,
@@ -42957,7 +43551,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13416
+    "mods_key": 13416,
+    "npc_master_key": 5
   },
   {
     "primary": 603,
@@ -43033,7 +43628,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13417
+    "mods_key": 13417,
+    "npc_master_key": 5
   },
   {
     "primary": 604,
@@ -43109,7 +43705,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13418
+    "mods_key": 13418,
+    "npc_master_key": 5
   },
   {
     "primary": 605,
@@ -43193,7 +43790,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13419
+    "mods_key": 13419,
+    "npc_master_key": 5
   },
   {
     "primary": 606,
@@ -43277,7 +43875,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13420
+    "mods_key": 13420,
+    "npc_master_key": 5
   },
   {
     "primary": 607,
@@ -43361,7 +43960,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13421
+    "mods_key": 13421,
+    "npc_master_key": 5
   },
   {
     "primary": 608,
@@ -43431,7 +44031,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13422
+    "mods_key": 13422,
+    "npc_master_key": 5
   },
   {
     "primary": 609,
@@ -43501,7 +44102,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13423
+    "mods_key": 13423,
+    "npc_master_key": 5
   },
   {
     "primary": 610,
@@ -43571,7 +44173,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13424
+    "mods_key": 13424,
+    "npc_master_key": 5
   },
   {
     "primary": 611,
@@ -43641,7 +44244,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13425
+    "mods_key": 13425,
+    "npc_master_key": 5
   },
   {
     "primary": 612,
@@ -43711,7 +44315,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13426
+    "mods_key": 13426,
+    "npc_master_key": 5
   },
   {
     "primary": 613,
@@ -43781,7 +44386,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13427
+    "mods_key": 13427,
+    "npc_master_key": 5
   },
   {
     "primary": 614,
@@ -43851,7 +44457,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13428
+    "mods_key": 13428,
+    "npc_master_key": 5
   },
   {
     "primary": 615,
@@ -43924,7 +44531,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13429
+    "mods_key": 13429,
+    "npc_master_key": 5
   },
   {
     "primary": 616,
@@ -43994,7 +44602,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13430
+    "mods_key": 13430,
+    "npc_master_key": 5
   },
   {
     "primary": 617,
@@ -44064,7 +44673,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13431
+    "mods_key": 13431,
+    "npc_master_key": 5
   },
   {
     "primary": 618,
@@ -44134,7 +44744,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13432
+    "mods_key": 13432,
+    "npc_master_key": 5
   },
   {
     "primary": 619,
@@ -44204,7 +44815,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13433
+    "mods_key": 13433,
+    "npc_master_key": 5
   },
   {
     "primary": 620,
@@ -44274,7 +44886,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13434
+    "mods_key": 13434,
+    "npc_master_key": 5
   },
   {
     "primary": 621,
@@ -44344,7 +44957,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13435
+    "mods_key": 13435,
+    "npc_master_key": 5
   },
   {
     "primary": 622,
@@ -44414,7 +45028,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13437
+    "mods_key": 13437,
+    "npc_master_key": 5
   },
   {
     "primary": 623,
@@ -44485,7 +45100,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Belt"],
-    "mods_key": 13438
+    "mods_key": 13438,
+    "npc_master_key": 5
   },
   {
     "primary": 624,
@@ -44556,7 +45172,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Belt"],
-    "mods_key": 13439
+    "mods_key": 13439,
+    "npc_master_key": 5
   },
   {
     "primary": 625,
@@ -44627,7 +45244,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Belt"],
-    "mods_key": 13440
+    "mods_key": 13440,
+    "npc_master_key": 5
   },
   {
     "primary": 626,
@@ -44698,7 +45316,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Belt"],
-    "mods_key": 13441
+    "mods_key": 13441,
+    "npc_master_key": 5
   },
   {
     "primary": 627,
@@ -44784,7 +45403,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13442
+    "mods_key": 13442,
+    "npc_master_key": 5
   },
   {
     "primary": 628,
@@ -44870,7 +45490,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13443
+    "mods_key": 13443,
+    "npc_master_key": 5
   },
   {
     "primary": 629,
@@ -44941,7 +45562,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13444
+    "mods_key": 13444,
+    "npc_master_key": 5
   },
   {
     "primary": 630,
@@ -45012,7 +45634,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13445
+    "mods_key": 13445,
+    "npc_master_key": 5
   },
   {
     "primary": 631,
@@ -45083,7 +45706,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13446
+    "mods_key": 13446,
+    "npc_master_key": 5
   },
   {
     "primary": 632,
@@ -45154,7 +45778,8 @@
       "tags": []
     },
     "item_classes": ["Ring", "Amulet"],
-    "mods_key": 13447
+    "mods_key": 13447,
+    "npc_master_key": 5
   },
   {
     "primary": 633,
@@ -45225,7 +45850,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Amulet"],
-    "mods_key": 13448
+    "mods_key": 13448,
+    "npc_master_key": 5
   },
   {
     "primary": 634,
@@ -45296,7 +45922,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Amulet"],
-    "mods_key": 13449
+    "mods_key": 13449,
+    "npc_master_key": 5
   },
   {
     "primary": 635,
@@ -45367,7 +45994,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Amulet"],
-    "mods_key": 13450
+    "mods_key": 13450,
+    "npc_master_key": 5
   },
   {
     "primary": 636,
@@ -45438,7 +46066,8 @@
       "tags": []
     },
     "item_classes": ["Gloves", "Amulet"],
-    "mods_key": 13451
+    "mods_key": 13451,
+    "npc_master_key": 5
   },
   {
     "primary": 637,
@@ -45524,7 +46153,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13452
+    "mods_key": 13452,
+    "npc_master_key": 5
   },
   {
     "primary": 638,
@@ -45610,7 +46240,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13453
+    "mods_key": 13453,
+    "npc_master_key": 5
   },
   {
     "primary": 639,
@@ -45696,7 +46327,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13454
+    "mods_key": 13454,
+    "npc_master_key": 5
   },
   {
     "primary": 640,
@@ -45782,7 +46414,8 @@
       "Bow",
       "Shield"
     ],
-    "mods_key": 13455
+    "mods_key": 13455,
+    "npc_master_key": 5
   },
   {
     "primary": 641,
@@ -45861,7 +46494,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13460
+    "mods_key": 13460,
+    "npc_master_key": 5
   },
   {
     "primary": 642,
@@ -45940,7 +46574,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13461
+    "mods_key": 13461,
+    "npc_master_key": 5
   },
   {
     "primary": 643,
@@ -46019,7 +46654,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13462
+    "mods_key": 13462,
+    "npc_master_key": 5
   },
   {
     "primary": 644,
@@ -46098,7 +46734,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13463
+    "mods_key": 13463,
+    "npc_master_key": 5
   },
   {
     "primary": 645,
@@ -46180,7 +46817,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13456
+    "mods_key": 13456,
+    "npc_master_key": 5
   },
   {
     "primary": 646,
@@ -46262,7 +46900,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13457
+    "mods_key": 13457,
+    "npc_master_key": 5
   },
   {
     "primary": 647,
@@ -46344,7 +46983,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13458
+    "mods_key": 13458,
+    "npc_master_key": 5
   },
   {
     "primary": 648,
@@ -46426,7 +47066,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13459
+    "mods_key": 13459,
+    "npc_master_key": 5
   },
   {
     "primary": 649,
@@ -46513,7 +47154,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13464
+    "mods_key": 13464,
+    "npc_master_key": 5
   },
   {
     "primary": 650,
@@ -46580,7 +47222,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13468
+    "mods_key": 13468,
+    "npc_master_key": 5
   },
   {
     "primary": 651,
@@ -46647,7 +47290,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13469
+    "mods_key": 13469,
+    "npc_master_key": 5
   },
   {
     "primary": 652,
@@ -46714,7 +47358,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13470
+    "mods_key": 13470,
+    "npc_master_key": 5
   },
   {
     "primary": 653,
@@ -46781,7 +47426,8 @@
       "tags": []
     },
     "item_classes": ["Gloves"],
-    "mods_key": 13471
+    "mods_key": 13471,
+    "npc_master_key": 5
   },
   {
     "primary": 654,
@@ -46848,7 +47494,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13472
+    "mods_key": 13472,
+    "npc_master_key": 5
   },
   {
     "primary": 655,
@@ -46915,7 +47562,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13473
+    "mods_key": 13473,
+    "npc_master_key": 5
   },
   {
     "primary": 656,
@@ -46982,7 +47630,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13474
+    "mods_key": 13474,
+    "npc_master_key": 5
   },
   {
     "primary": 657,
@@ -47049,7 +47698,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13475
+    "mods_key": 13475,
+    "npc_master_key": 5
   },
   {
     "primary": 658,
@@ -47122,7 +47772,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13480
+    "mods_key": 13480,
+    "npc_master_key": 5
   },
   {
     "primary": 659,
@@ -47195,7 +47846,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13481
+    "mods_key": 13481,
+    "npc_master_key": 5
   },
   {
     "primary": 660,
@@ -47268,7 +47920,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13482
+    "mods_key": 13482,
+    "npc_master_key": 5
   },
   {
     "primary": 661,
@@ -47341,7 +47994,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13483
+    "mods_key": 13483,
+    "npc_master_key": 5
   },
   {
     "primary": 662,
@@ -47422,7 +48076,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13476
+    "mods_key": 13476,
+    "npc_master_key": 5
   },
   {
     "primary": 663,
@@ -47503,7 +48158,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13477
+    "mods_key": 13477,
+    "npc_master_key": 5
   },
   {
     "primary": 664,
@@ -47584,7 +48240,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13478
+    "mods_key": 13478,
+    "npc_master_key": 5
   },
   {
     "primary": 665,
@@ -47665,7 +48322,8 @@
       "Wand",
       "Shield"
     ],
-    "mods_key": 13479
+    "mods_key": 13479,
+    "npc_master_key": 5
   },
   {
     "primary": 666,
@@ -47732,7 +48390,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13484
+    "mods_key": 13484,
+    "npc_master_key": 5
   },
   {
     "primary": 667,
@@ -47799,7 +48458,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13485
+    "mods_key": 13485,
+    "npc_master_key": 5
   },
   {
     "primary": 668,
@@ -47866,7 +48526,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13486
+    "mods_key": 13486,
+    "npc_master_key": 5
   },
   {
     "primary": 669,
@@ -47933,7 +48594,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13487
+    "mods_key": 13487,
+    "npc_master_key": 5
   },
   {
     "primary": 670,
@@ -48000,7 +48662,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13488
+    "mods_key": 13488,
+    "npc_master_key": 5
   },
   {
     "primary": 671,
@@ -48067,7 +48730,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13489
+    "mods_key": 13489,
+    "npc_master_key": 5
   },
   {
     "primary": 672,
@@ -48134,7 +48798,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13490
+    "mods_key": 13490,
+    "npc_master_key": 5
   },
   {
     "primary": 673,
@@ -48201,7 +48866,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13491
+    "mods_key": 13491,
+    "npc_master_key": 5
   },
   {
     "primary": 674,
@@ -48268,7 +48934,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13492
+    "mods_key": 13492,
+    "npc_master_key": 5
   },
   {
     "primary": 675,
@@ -48335,7 +49002,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13493
+    "mods_key": 13493,
+    "npc_master_key": 5
   },
   {
     "primary": 676,
@@ -48402,7 +49070,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13494
+    "mods_key": 13494,
+    "npc_master_key": 5
   },
   {
     "primary": 677,
@@ -48469,7 +49138,8 @@
       "tags": []
     },
     "item_classes": ["Helmet"],
-    "mods_key": 13495
+    "mods_key": 13495,
+    "npc_master_key": 5
   },
   {
     "primary": 678,
@@ -48536,7 +49206,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13496
+    "mods_key": 13496,
+    "npc_master_key": 5
   },
   {
     "primary": 679,
@@ -48603,7 +49274,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13497
+    "mods_key": 13497,
+    "npc_master_key": 5
   },
   {
     "primary": 680,
@@ -48670,7 +49342,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13498
+    "mods_key": 13498,
+    "npc_master_key": 5
   },
   {
     "primary": 681,
@@ -48737,7 +49410,8 @@
       "tags": []
     },
     "item_classes": ["Boots"],
-    "mods_key": 13499
+    "mods_key": 13499,
+    "npc_master_key": 5
   },
   {
     "primary": 682,
@@ -48808,7 +49482,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13500
+    "mods_key": 13500,
+    "npc_master_key": 5
   },
   {
     "primary": 683,
@@ -48879,7 +49554,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13501
+    "mods_key": 13501,
+    "npc_master_key": 5
   },
   {
     "primary": 684,
@@ -48950,7 +49626,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13502
+    "mods_key": 13502,
+    "npc_master_key": 5
   },
   {
     "primary": 685,
@@ -49021,7 +49698,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13503
+    "mods_key": 13503,
+    "npc_master_key": 5
   },
   {
     "primary": 686,
@@ -49091,7 +49769,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13504
+    "mods_key": 13504,
+    "npc_master_key": 5
   },
   {
     "primary": 687,
@@ -49161,7 +49840,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13505
+    "mods_key": 13505,
+    "npc_master_key": 5
   },
   {
     "primary": 688,
@@ -49231,7 +49911,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13506
+    "mods_key": 13506,
+    "npc_master_key": 5
   },
   {
     "primary": 689,
@@ -49301,7 +49982,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13507
+    "mods_key": 13507,
+    "npc_master_key": 5
   },
   {
     "primary": 690,
@@ -49371,7 +50053,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13508
+    "mods_key": 13508,
+    "npc_master_key": 5
   },
   {
     "primary": 691,
@@ -49441,7 +50124,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13509
+    "mods_key": 13509,
+    "npc_master_key": 5
   },
   {
     "primary": 692,
@@ -49511,7 +50195,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13510
+    "mods_key": 13510,
+    "npc_master_key": 5
   },
   {
     "primary": 693,
@@ -49581,7 +50266,8 @@
       "tags": []
     },
     "item_classes": ["Ring"],
-    "mods_key": 13511
+    "mods_key": 13511,
+    "npc_master_key": 5
   },
   {
     "primary": 694,
@@ -49654,7 +50340,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13512
+    "mods_key": 13512,
+    "npc_master_key": 5
   },
   {
     "primary": 695,
@@ -49732,7 +50419,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13513
+    "mods_key": 13513,
+    "npc_master_key": 5
   },
   {
     "primary": 696,
@@ -49805,7 +50493,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13514
+    "mods_key": 13514,
+    "npc_master_key": 5
   },
   {
     "primary": 697,
@@ -49878,7 +50567,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13515
+    "mods_key": 13515,
+    "npc_master_key": 5
   },
   {
     "primary": 698,
@@ -49951,7 +50641,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13516
+    "mods_key": 13516,
+    "npc_master_key": 5
   },
   {
     "primary": 699,
@@ -50027,7 +50718,8 @@
       "UtilityFlask",
       "UtilityFlaskCritical"
     ],
-    "mods_key": 13517
+    "mods_key": 13517,
+    "npc_master_key": 5
   },
   {
     "primary": 700,
@@ -50111,7 +50803,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13518
+    "mods_key": 13518,
+    "npc_master_key": 5
   },
   {
     "primary": 701,
@@ -50193,7 +50886,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13519
+    "mods_key": 13519,
+    "npc_master_key": 5
   },
   {
     "primary": 702,
@@ -50277,7 +50971,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13520
+    "mods_key": 13520,
+    "npc_master_key": 5
   },
   {
     "primary": 703,
@@ -50361,7 +51056,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13521
+    "mods_key": 13521,
+    "npc_master_key": 5
   },
   {
     "primary": 704,
@@ -50445,7 +51141,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13522
+    "mods_key": 13522,
+    "npc_master_key": 5
   },
   {
     "primary": 705,
@@ -50529,7 +51226,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13523
+    "mods_key": 13523,
+    "npc_master_key": 5
   },
   {
     "primary": 706,
@@ -50613,7 +51311,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13524
+    "mods_key": 13524,
+    "npc_master_key": 5
   },
   {
     "primary": 707,
@@ -50697,7 +51396,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13525
+    "mods_key": 13525,
+    "npc_master_key": 5
   },
   {
     "primary": 708,
@@ -50783,7 +51483,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13526
+    "mods_key": 13526,
+    "npc_master_key": 5
   },
   {
     "primary": 709,
@@ -50867,7 +51568,8 @@
       "Two Hand Axe",
       "Two Hand Mace"
     ],
-    "mods_key": 13527
+    "mods_key": 13527,
+    "npc_master_key": 5
   },
   {
     "primary": 710,
@@ -50955,7 +51657,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13531
+    "mods_key": 13531,
+    "npc_master_key": 5
   },
   {
     "primary": 711,
@@ -51043,7 +51746,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13532
+    "mods_key": 13532,
+    "npc_master_key": 5
   },
   {
     "primary": 712,
@@ -51131,7 +51835,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13533
+    "mods_key": 13533,
+    "npc_master_key": 5
   },
   {
     "primary": 713,
@@ -51214,7 +51919,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13528
+    "mods_key": 13528,
+    "npc_master_key": 5
   },
   {
     "primary": 714,
@@ -51297,7 +52003,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13529
+    "mods_key": 13529,
+    "npc_master_key": 5
   },
   {
     "primary": 715,
@@ -51380,7 +52087,8 @@
       "Sceptre",
       "Wand"
     ],
-    "mods_key": 13530
+    "mods_key": 13530,
+    "npc_master_key": 5
   },
   {
     "primary": 716,
@@ -51461,7 +52169,8 @@
       "Two Hand Mace",
       "Bow"
     ],
-    "mods_key": 13534
+    "mods_key": 13534,
+    "npc_master_key": 5
   },
   {
     "primary": 717,
@@ -51583,7 +52292,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13535
+    "mods_key": 13535,
+    "npc_master_key": 5
   },
   {
     "primary": 718,
@@ -51705,7 +52415,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13536
+    "mods_key": 13536,
+    "npc_master_key": 5
   },
   {
     "primary": 719,
@@ -51827,7 +52538,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13537
+    "mods_key": 13537,
+    "npc_master_key": 5
   },
   {
     "primary": 720,
@@ -51949,7 +52661,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13538
+    "mods_key": 13538,
+    "npc_master_key": 5
   },
   {
     "primary": 721,
@@ -52071,7 +52784,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13539
+    "mods_key": 13539,
+    "npc_master_key": 5
   },
   {
     "primary": 722,
@@ -52193,7 +52907,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13540
+    "mods_key": 13540,
+    "npc_master_key": 5
   },
   {
     "primary": 723,
@@ -52315,7 +53030,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13541
+    "mods_key": 13541,
+    "npc_master_key": 5
   },
   {
     "primary": 724,
@@ -52437,7 +53153,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13542
+    "mods_key": 13542,
+    "npc_master_key": 5
   },
   {
     "primary": 725,
@@ -52559,7 +53276,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 13543
+    "mods_key": 13543,
+    "npc_master_key": 5
   },
   {
     "primary": 726,
@@ -52664,7 +53382,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13544
+    "mods_key": 13544,
+    "npc_master_key": 5
   },
   {
     "primary": 727,
@@ -52769,7 +53488,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13545
+    "mods_key": 13545,
+    "npc_master_key": 5
   },
   {
     "primary": 728,
@@ -52874,7 +53594,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13546
+    "mods_key": 13546,
+    "npc_master_key": 5
   },
   {
     "primary": 729,
@@ -52979,7 +53700,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13547
+    "mods_key": 13547,
+    "npc_master_key": 5
   },
   {
     "primary": 730,
@@ -53084,7 +53806,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13548
+    "mods_key": 13548,
+    "npc_master_key": 5
   },
   {
     "primary": 731,
@@ -53189,7 +53912,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13549
+    "mods_key": 13549,
+    "npc_master_key": 5
   },
   {
     "primary": 732,
@@ -53294,7 +54018,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13550
+    "mods_key": 13550,
+    "npc_master_key": 5
   },
   {
     "primary": 733,
@@ -53399,7 +54124,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13551
+    "mods_key": 13551,
+    "npc_master_key": 5
   },
   {
     "primary": 734,
@@ -53504,7 +54230,8 @@
       "Helmet",
       "Shield"
     ],
-    "mods_key": 13552
+    "mods_key": 13552,
+    "npc_master_key": 5
   },
   {
     "primary": 735,
@@ -53571,7 +54298,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13553
+    "mods_key": 13553,
+    "npc_master_key": 5
   },
   {
     "primary": 736,
@@ -53638,7 +54366,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13554
+    "mods_key": 13554,
+    "npc_master_key": 5
   },
   {
     "primary": 737,
@@ -53705,7 +54434,8 @@
       "tags": []
     },
     "item_classes": ["Belt"],
-    "mods_key": 13555
+    "mods_key": 13555,
+    "npc_master_key": 5
   },
   {
     "primary": 738,
@@ -53776,7 +54506,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Belt"],
-    "mods_key": 13381
+    "mods_key": 13381,
+    "npc_master_key": 5
   },
   {
     "primary": 739,
@@ -53847,7 +54578,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Belt"],
-    "mods_key": 13382
+    "mods_key": 13382,
+    "npc_master_key": 5
   },
   {
     "primary": 740,
@@ -53918,7 +54650,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Belt"],
-    "mods_key": 13383
+    "mods_key": 13383,
+    "npc_master_key": 5
   },
   {
     "primary": 741,
@@ -53989,7 +54722,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Helmet"],
-    "mods_key": 13384
+    "mods_key": 13384,
+    "npc_master_key": 5
   },
   {
     "primary": 742,
@@ -54060,7 +54794,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Helmet"],
-    "mods_key": 13385
+    "mods_key": 13385,
+    "npc_master_key": 5
   },
   {
     "primary": 743,
@@ -54131,7 +54866,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Helmet"],
-    "mods_key": 13386
+    "mods_key": 13386,
+    "npc_master_key": 5
   },
   {
     "primary": 744,
@@ -54202,7 +54938,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Gloves"],
-    "mods_key": 13387
+    "mods_key": 13387,
+    "npc_master_key": 5
   },
   {
     "primary": 745,
@@ -54273,7 +55010,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Gloves"],
-    "mods_key": 13388
+    "mods_key": 13388,
+    "npc_master_key": 5
   },
   {
     "primary": 746,
@@ -54344,7 +55082,8 @@
       "tags": []
     },
     "item_classes": ["Amulet", "Gloves"],
-    "mods_key": 13389
+    "mods_key": 13389,
+    "npc_master_key": 5
   },
   {
     "primary": 747,
@@ -54414,7 +55153,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13556
+    "mods_key": 13556,
+    "npc_master_key": 5
   },
   {
     "primary": 748,
@@ -54481,7 +55221,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13557
+    "mods_key": 13557,
+    "npc_master_key": 5
   },
   {
     "primary": 749,
@@ -54548,7 +55289,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13558
+    "mods_key": 13558,
+    "npc_master_key": 5
   },
   {
     "primary": 750,
@@ -54618,7 +55360,8 @@
       "tags": []
     },
     "item_classes": ["Body Armour"],
-    "mods_key": 13559
+    "mods_key": 13559,
+    "npc_master_key": 5
   },
   {
     "primary": 751,
@@ -54688,7 +55431,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13137
+    "mods_key": 13137,
+    "npc_master_key": 5
   },
   {
     "primary": 752,
@@ -54758,7 +55502,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13138
+    "mods_key": 13138,
+    "npc_master_key": 5
   },
   {
     "primary": 753,
@@ -54828,7 +55573,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13139
+    "mods_key": 13139,
+    "npc_master_key": 5
   },
   {
     "primary": 754,
@@ -54898,7 +55644,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13140
+    "mods_key": 13140,
+    "npc_master_key": 5
   },
   {
     "primary": 755,
@@ -54968,7 +55715,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13141
+    "mods_key": 13141,
+    "npc_master_key": 5
   },
   {
     "primary": 756,
@@ -55038,7 +55786,8 @@
       "tags": []
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13142
+    "mods_key": 13142,
+    "npc_master_key": 5
   },
   {
     "primary": 757,
@@ -55108,7 +55857,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13143
+    "mods_key": 13143,
+    "npc_master_key": 5
   },
   {
     "primary": 758,
@@ -55178,7 +55928,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13144
+    "mods_key": 13144,
+    "npc_master_key": 5
   },
   {
     "primary": 759,
@@ -55248,7 +55999,8 @@
       "tags": ["has_attack_mod"]
     },
     "item_classes": ["Amulet"],
-    "mods_key": 13145
+    "mods_key": 13145,
+    "npc_master_key": 5
   },
   {
     "primary": 760,
@@ -55334,7 +56086,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 6836
+    "mods_key": 6836,
+    "npc_master_key": 0
   },
   {
     "primary": 761,
@@ -55420,7 +56173,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 6837
+    "mods_key": 6837,
+    "npc_master_key": 0
   },
   {
     "primary": 762,
@@ -55506,7 +56260,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 6840
+    "mods_key": 6840,
+    "npc_master_key": 0
   },
   {
     "primary": 763,
@@ -55592,7 +56347,8 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 6838
+    "mods_key": 6838,
+    "npc_master_key": 0
   },
   {
     "primary": 764,
@@ -55678,6 +56434,7 @@
       "Belt",
       "Quiver"
     ],
-    "mods_key": 6839
+    "mods_key": 6839,
+    "npc_master_key": 0
   }
 ]
